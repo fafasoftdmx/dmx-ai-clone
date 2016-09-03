@@ -1,0 +1,7 @@
+target 'dmx' do
+    pod 'AppAnalytics'
+end
+
+target 'dmxTests' do
+  pod 'KIF', '~> 3.0', :configurations => ['Debug']
+end

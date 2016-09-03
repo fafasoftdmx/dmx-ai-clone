@@ -1,0 +1,45 @@
+{
+    "author": {
+        "name": "DMX PR LLC",
+        "url": "github.com/dmx-io"
+    },
+    "bugs": {
+        "url": "https://github.com/dmx-io/react-native-vin-scanner/issues"
+    },
+    "description": "VIN scanner react native wrapper",
+    "devDependencies": {
+        "react": "^0.14.7",
+        "react-native": "^0.23.1"
+    },
+    "homepage": "https://github.com/dmx-io/react-native-vin-scanner#readme",
+    "keywords": [
+        "react-component",
+        "react-native",
+        "ios",
+        "vin",
+        "scanner",
+        "android"
+    ],
+    "main": "index.js",
+    "name": "react-native-vin-scanner",
+    "peerDependencies": {
+        "react": "^0.14.7",
+        "react-native": "^0.23.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dmx-io/react-native-vin-scanner.git"
+    },
+    "rnpm": {
+        "android": {
+            "packageInstance": "new VinScannerPackage()"
+        },
+        "ios": {
+            "project": "ios/RCTOrientation.xcodeproj"
+        }
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.0"
+}

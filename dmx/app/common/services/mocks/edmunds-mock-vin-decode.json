@@ -1,0 +1,82 @@
+{
+    "make": {
+        "id": 200000081,
+        "name": "BMW",
+        "niceName": "bmw"
+    },
+    "model": {
+        "id": "BMW_3_Series",
+        "name": "3 Series",
+        "niceName": "3-series"
+    },
+    "drivenWheels": "all wheel drive",
+    "numOfDoors": "2",
+    "options": [],
+    "colors": [],
+    "manufacturerCode": "0838",
+    "price": {
+        "baseMSRP": 37400,
+        "baseInvoice": 34410,
+        "deliveryCharges": 825,
+        "usedTmvRetail": 9898,
+        "usedPrivateParty": 8450,
+        "usedTradeIn": 7166,
+        "estimateTmv": false,
+        "tmvRecommendedRating": 0
+    },
+    "categories": {
+        "market": "Luxury",
+        "EPAClass": "Subcompact Cars",
+        "vehicleSize": "Compact",
+        "primaryBodyType": "Car",
+        "vehicleStyle": "Coupe",
+        "vehicleType": "Car"
+    },
+    "vin": "WBAWV53568P078170",
+    "squishVin": "WBAWV5358P",
+    "years": [
+        {
+            "id": 100524310,
+            "year": 2008,
+            "styles": [
+                {
+                    "id": 100946385,
+                    "name": "328xi 2dr Coupe AWD (3.0L 6cyl 6M)",
+                    "submodel": {
+                        "body": "Coupe",
+                        "modelName": "3 Series Coupe",
+                        "niceName": "coupe"
+                    },
+                    "trim": "328xi"
+                },
+                {
+                    "id": 100946386,
+                    "name": "Test Car 2",
+                    "submodel": {
+                        "body": "Coupe",
+                        "modelName": "3 Series Coupe",
+                        "niceName": "coupe"
+                    },
+                    "trim": "328xi"
+                },
+                {
+                    "id": 100946380,
+                    "name": "Test Car 3",
+                    "submodel": {
+                        "body": "Coupe",
+                        "modelName": "3 Series Coupe",
+                        "niceName": "coupe"
+                    },
+                    "trim": "328xi"
+                }
+            ]
+        }
+    ],
+    "matchingType": "SQUISHVIN",
+    "completeness": 40,
+    "optionMatchPercent": 0,
+    "MPG": {
+        "highway": "25",
+        "city": "17"
+    }
+}

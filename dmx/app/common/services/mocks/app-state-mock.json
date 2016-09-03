@@ -1,0 +1,157 @@
+{
+    "firstName": "Bilbo",
+    "guid": 98765,
+    "lastName": "Baggins",
+    "vehicles": [
+        {
+            "colorExterior": {
+                "attributes": [],
+                "availability": "USED",
+                "category": "Interior",
+                "colorChips": {
+                    "primary": {
+                        "b": 34,
+                        "g": 42,
+                        "hex": "882A22",
+                        "r": 136
+                    },
+                    "secondary": {
+                        "b": 0,
+                        "g": 0,
+                        "hex": "000000",
+                        "r": 0
+                    }
+                },
+                "equipmentType": "COLOR",
+                "fabricTypes": [
+                    {
+                        "name": "FABRIC_TYPE_1",
+                        "value": "premium leather"
+                    }
+                ],
+                "id": "200112897",
+                "manufactureOptionCode": "LCD1",
+                "manufactureOptionName": "Coral Red/Black",
+                "name": "Coral Red/Black"
+            },
+            "colorInterior": {
+                "attributes": [],
+                "availability": "USED",
+                "category": "Interior",
+                "colorChips": {
+                    "primary": {
+                        "b": 146,
+                        "g": 179,
+                        "hex": "C3B392",
+                        "r": 195
+                    }
+                },
+                "equipmentType": "COLOR",
+                "fabricTypes": [
+                    {
+                        "name": "FABRIC_TYPE_1",
+                        "value": "premium leather"
+                    }
+                ],
+                "id": "200112899",
+                "manufactureOptionCode": "LCGE",
+                "manufactureOptionName": "Cream Beige",
+                "name": "Cream Beige"
+            },
+            "odometer": 18766,
+            "photos": [
+                {
+                    "type": "photoExteriorSide"
+                }
+            ],
+            "qualityAttributes": [
+                {
+                    "type": "interiorPaintQuality",
+                    "value": "good"
+                }
+            ],
+            "status": "complete",
+            "vin": "WBAWV53568P078170",
+            "voiceNotes": {
+                "path": "http://testvoicepath22444555.com",
+                "vnid": 12234566
+            },
+            "ymm": "2013 Ford Taurus"
+        },
+        {
+            "colorExterior": {
+                "attributes": [],
+                "availability": "USED",
+                "category": "Interior",
+                "colorChips": {
+                    "primary": {
+                        "b": 34,
+                        "g": 42,
+                        "hex": "882A22",
+                        "r": 136
+                    },
+                    "secondary": {
+                        "b": 0,
+                        "g": 0,
+                        "hex": "000000",
+                        "r": 0
+                    }
+                },
+                "equipmentType": "COLOR",
+                "fabricTypes": [
+                    {
+                        "name": "FABRIC_TYPE_1",
+                        "value": "premium leather"
+                    }
+                ],
+                "id": "200112897",
+                "manufactureOptionCode": "LCD1",
+                "manufactureOptionName": "Coral Red/Black",
+                "name": "Coral Red/Black"
+            },
+            "colorInterior": {
+                "attributes": [],
+                "availability": "USED",
+                "category": "Interior",
+                "colorChips": {
+                    "primary": {
+                        "b": 146,
+                        "g": 179,
+                        "hex": "C3B392",
+                        "r": 195
+                    }
+                },
+                "equipmentType": "COLOR",
+                "fabricTypes": [
+                    {
+                        "name": "FABRIC_TYPE_1",
+                        "value": "premium leather"
+                    }
+                ],
+                "id": "200112899",
+                "manufactureOptionCode": "LCGE",
+                "manufactureOptionName": "Cream Beige",
+                "name": "Cream Beige"
+            },
+            "odometer": 18766,
+            "photos": [
+                {
+                    "type": "photoExteriorSide"
+                }
+            ],
+            "qualityAttributes": [
+                {
+                    "type": "interiorPaintQuality",
+                    "value": "good"
+                }
+            ],
+            "status": "incomplete",
+            "vin": "WBAWV53568P078199",
+            "voiceNotes": {
+                "path": "http://testvoicepath22444555.com",
+                "vnid": 12234566
+            },
+            "ymm": "2012 Maserati Ghibli"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Align red line to barcode"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal"
+        android:textSize="25dp"
+        android:padding="30dp"
+        android:textColor="#1681d7" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:background="#000000"
+            android:id="@+id/react_view">
+            <include layout="@layout/scanner_fragment" />
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:background="#fb193f"
+                android:layout_gravity="center_vertical"
+                android:layout_marginBottom="53dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp" />
+        </FrameLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true">
+            <include layout="@layout/manual_vin_entry_button"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp" />
+            <include layout="@layout/cancel_button" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

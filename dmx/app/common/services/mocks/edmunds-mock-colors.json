@@ -1,0 +1,437 @@
+{
+    "colors": [
+        {
+            "id": "200112890",
+            "name": "Crimson Red",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Crimson Red",
+            "manufactureOptionCode": "A61",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 146,
+                    "g": 13,
+                    "b": 14,
+                    "hex": "920D0E"
+                }
+            }
+        },
+        {
+            "id": "200112899",
+            "name": "Cream Beige",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Cream Beige",
+            "manufactureOptionCode": "LCGE",
+            "category": "Interior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 195,
+                    "g": 179,
+                    "b": 146,
+                    "hex": "C3B392"
+                }
+            },
+            "fabricTypes": [
+                {
+                    "name": "FABRIC_TYPE_1",
+                    "value": "premium leather"
+                }
+            ]
+        },
+        {
+            "id": "200112897",
+            "name": "Coral Red/Black",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Coral Red/Black",
+            "manufactureOptionCode": "LCD1",
+            "category": "Interior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 136,
+                    "g": 42,
+                    "b": 34,
+                    "hex": "882A22"
+                },
+                "secondary": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "hex": "000000"
+                }
+            },
+            "fabricTypes": [
+                {
+                    "name": "FABRIC_TYPE_1",
+                    "value": "premium leather"
+                }
+            ]
+        },
+        {
+            "id": "200112898",
+            "name": "Saddle Brown/Black",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Saddle Brown/Black",
+            "manufactureOptionCode": "LCD3",
+            "category": "Interior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 112,
+                    "g": 87,
+                    "b": 65,
+                    "hex": "705741"
+                },
+                "secondary": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "hex": "000000"
+                }
+            },
+            "fabricTypes": [
+                {
+                    "name": "FABRIC_TYPE_1",
+                    "value": "premium leather"
+                }
+            ]
+        },
+        {
+            "id": "200112892",
+            "name": "Cream Beige",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Cream Beige",
+            "manufactureOptionCode": "KAGE",
+            "category": "Interior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 195,
+                    "g": 179,
+                    "b": 146,
+                    "hex": "C3B392"
+                }
+            },
+            "fabricTypes": [
+                {
+                    "name": "FABRIC_TYPE_1",
+                    "value": "leatherette"
+                }
+            ]
+        },
+        {
+            "id": "200112893",
+            "name": "Black",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Black",
+            "manufactureOptionCode": "KASW",
+            "category": "Interior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "hex": "000000"
+                }
+            },
+            "fabricTypes": [
+                {
+                    "name": "FABRIC_TYPE_1",
+                    "value": "leatherette"
+                }
+            ]
+        },
+        {
+            "id": "200112894",
+            "name": "Gray",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Gray",
+            "manufactureOptionCode": "LCAD",
+            "category": "Interior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 139,
+                    "g": 143,
+                    "b": 146,
+                    "hex": "8B8F92"
+                }
+            },
+            "fabricTypes": [
+                {
+                    "name": "FABRIC_TYPE_1",
+                    "value": "premium leather"
+                }
+            ]
+        },
+        {
+            "id": "200112900",
+            "name": "Black",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Black",
+            "manufactureOptionCode": "LCSW",
+            "category": "Interior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "hex": "000000"
+                }
+            },
+            "fabricTypes": [
+                {
+                    "name": "FABRIC_TYPE_1",
+                    "value": "premium leather"
+                }
+            ]
+        },
+        {
+            "id": "200112879",
+            "name": "Black Sapphire Metallic",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Black Sapphire Metallic",
+            "manufactureOptionCode": "475",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "hex": "000000"
+                }
+            }
+        },
+        {
+            "id": "200112878",
+            "name": "Titanium Silver Metallic",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Titanium Silver Metallic",
+            "manufactureOptionCode": "354",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 190,
+                    "g": 190,
+                    "b": 190,
+                    "hex": "BEBEBE"
+                }
+            }
+        },
+        {
+            "id": "200112877",
+            "name": "Alpine White",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Alpine White",
+            "manufactureOptionCode": "300",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "hex": "FFFFFF"
+                }
+            }
+        },
+        {
+            "id": "200112888",
+            "name": "Space Gray Metallic",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Space Gray Metallic",
+            "manufactureOptionCode": "A52",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 136,
+                    "g": 144,
+                    "b": 147,
+                    "hex": "889093"
+                }
+            }
+        },
+        {
+            "id": "200112889",
+            "name": "Platinum Bronze Metallic",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Platinum Bronze Metallic",
+            "manufactureOptionCode": "A53",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 173,
+                    "g": 169,
+                    "b": 162,
+                    "hex": "ADA9A2"
+                }
+            }
+        },
+        {
+            "id": "200112886",
+            "name": "Deep Green Metallic",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Deep Green Metallic",
+            "manufactureOptionCode": "A43",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 20,
+                    "g": 45,
+                    "b": 45,
+                    "hex": "142D2D"
+                }
+            }
+        },
+        {
+            "id": "200112887",
+            "name": "Montego Blue Metallic",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Montego Blue Metallic",
+            "manufactureOptionCode": "A51",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 21,
+                    "g": 44,
+                    "b": 76,
+                    "hex": "152C4C"
+                }
+            }
+        },
+        {
+            "id": "200112884",
+            "name": "Monaco Blue Metallic",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Monaco Blue Metallic",
+            "manufactureOptionCode": "A35",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 21,
+                    "g": 34,
+                    "b": 51,
+                    "hex": "152233"
+                }
+            }
+        },
+        {
+            "id": "200112885",
+            "name": "Barbera Red Metallic",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Barbera Red Metallic",
+            "manufactureOptionCode": "A39",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 61,
+                    "g": 20,
+                    "b": 28,
+                    "hex": "3D141C"
+                }
+            }
+        },
+        {
+            "id": "200112882",
+            "name": "Sparkling Graphite Metallic",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Sparkling Graphite Metallic",
+            "manufactureOptionCode": "A22",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 82,
+                    "g": 83,
+                    "b": 85,
+                    "hex": "525355"
+                }
+            }
+        },
+        {
+            "id": "200112883",
+            "name": "Arctic Metallic",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Arctic Metallic",
+            "manufactureOptionCode": "A34",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 154,
+                    "g": 163,
+                    "b": 168,
+                    "hex": "9AA3A8"
+                }
+            }
+        },
+        {
+            "id": "200112880",
+            "name": "Jet Black",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Jet Black",
+            "manufactureOptionCode": "668",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "hex": "000000"
+                }
+            }
+        },
+        {
+            "id": "200112881",
+            "name": "Atlantic Blue Metallic",
+            "equipmentType": "COLOR",
+            "availability": "USED",
+            "manufactureOptionName": "Atlantic Blue Metallic",
+            "manufactureOptionCode": "A13",
+            "category": "Exterior",
+            "attributes": [],
+            "colorChips": {
+                "primary": {
+                    "r": 147,
+                    "g": 164,
+                    "b": 172,
+                    "hex": "93A4AC"
+                }
+            }
+        }
+    ],
+    "colorsCount": 21
+}

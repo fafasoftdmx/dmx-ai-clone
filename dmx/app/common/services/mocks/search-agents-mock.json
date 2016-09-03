@@ -1,0 +1,52 @@
+{
+    "searchAgents": [
+        {
+            "year": 2014,
+            "make": "BMW",
+            "model": "3 Series",
+            "isActive": false
+        },
+        {
+            "year": 2014,
+            "make": "BMW",
+            "model": "3 Series",
+            "isActive": true
+        },
+        {
+            "year": 2014,
+            "make": "BMW",
+            "model": "3 Series",
+            "isActive": false
+        },
+        {
+            "year": 2014,
+            "make": "BMW",
+            "model": "3 Series",
+            "isActive": false
+        },
+        {
+            "year": 2014,
+            "make": "BMW",
+            "model": "3 Series",
+            "isActive": true
+        },
+        {
+            "year": 2014,
+            "make": "BMW",
+            "model": "3 Series",
+            "isActive": true
+        },
+        {
+            "year": 2014,
+            "make": "BMW",
+            "model": "3 Series",
+            "isActive": false
+        },
+        {
+            "year": 2014,
+            "make": "BMW",
+            "model": "3 Series",
+            "isActive": false
+        }
+    ]
+}

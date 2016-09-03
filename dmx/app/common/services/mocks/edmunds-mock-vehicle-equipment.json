@@ -1,0 +1,2344 @@
+{
+    "equipment": [
+        {
+            "id": "10094638511",
+            "name": "Air Conditioning",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Climate Control Memory",
+                    "value": "includes climate control"
+                },
+                {
+                    "name": "Extended Cabin Heating/cooling",
+                    "value": "extended cabin heating"
+                },
+                {
+                    "name": "Front Air Conditioning Zones",
+                    "value": "dual"
+                },
+                {
+                    "name": "Front Air Conditioning",
+                    "value": "automatic climate control"
+                },
+                {
+                    "name": "Rear Heat",
+                    "value": "rear ventilation ducts"
+                },
+                {
+                    "name": "Air Filtration",
+                    "value": "interior active charcoal air filter"
+                }
+            ]
+        },
+        {
+            "id": "10094638514",
+            "name": "Brake System",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Rear Brake Width",
+                    "value": "0.8"
+                },
+                {
+                    "name": "Emergency Braking Preparation",
+                    "value": "emergency braking preparation"
+                },
+                {
+                    "name": "Brake Drying",
+                    "value": "brake drying"
+                },
+                {
+                    "name": "Front Brake Width",
+                    "value": "0.9"
+                },
+                {
+                    "name": "Electronic Brakeforce Distribution",
+                    "value": "electronic brakeforce distribution"
+                },
+                {
+                    "name": "Rear Brake Type",
+                    "value": "ventilated disc"
+                },
+                {
+                    "name": "Front Brake Diameter",
+                    "value": "11.8"
+                },
+                {
+                    "name": "Front Brake Type",
+                    "value": "ventilated disc"
+                },
+                {
+                    "name": "Antilock Braking System",
+                    "value": "4-wheel ABS"
+                },
+                {
+                    "name": "Braking Assist",
+                    "value": "braking assist"
+                },
+                {
+                    "name": "Rear Brake Diameter",
+                    "value": "11.8"
+                }
+            ]
+        },
+        {
+            "id": "10094638515",
+            "name": "Mobile Connectivity",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Phone",
+                    "value": "pre-wired for phone"
+                }
+            ]
+        },
+        {
+            "id": "10094638516",
+            "name": "Mirrors",
+            "equipmentType": "MIRRORS",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "1st Row Vanity Mirrors",
+                    "value": "dual illuminated vanity mirrors"
+                },
+                {
+                    "name": "Passenger Side Mirror Adjustment",
+                    "value": "power"
+                },
+                {
+                    "name": "Exterior Mirror Adjustment",
+                    "value": "power"
+                },
+                {
+                    "name": "Heated Exterior Mirrors",
+                    "value": "heated"
+                },
+                {
+                    "name": "Heated Passenger Side Mirror",
+                    "value": "heated"
+                }
+            ]
+        },
+        {
+            "id": "10094638517",
+            "name": "Steering Wheel",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Steering Wheel Adjustments",
+                    "value": "tilt and telescopic"
+                },
+                {
+                    "name": "Steering Wheel Trim",
+                    "value": "leather and alloy"
+                },
+                {
+                    "name": "Audio Controls On Steering Wheel",
+                    "value": "audio controls"
+                },
+                {
+                    "name": "Phone Controls On Steering Wheel",
+                    "value": "phone controls on steering wheel"
+                }
+            ]
+        },
+        {
+            "id": "10094638520",
+            "name": "Instrumentation",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "External Temperature Gauge",
+                    "value": "external temperature display"
+                },
+                {
+                    "name": "Tire Pressure Monitoring System",
+                    "value": "tire pressure monitoring"
+                },
+                {
+                    "name": "Low Fuel Level Indicator",
+                    "value": "low fuel level"
+                },
+                {
+                    "name": "Tachometer",
+                    "value": "tachometer"
+                },
+                {
+                    "name": "Trip Computer",
+                    "value": "trip computer"
+                },
+                {
+                    "name": "Clock",
+                    "value": "clock"
+                }
+            ]
+        },
+        {
+            "id": "10094638521",
+            "name": "2nd Row Seats",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Folding 2nd Row",
+                    "value": "split folding"
+                },
+                {
+                    "name": "2nd Row Seat Type",
+                    "value": "bucket"
+                },
+                {
+                    "name": "Number Of 2nd Row Headrests",
+                    "value": "2"
+                },
+                {
+                    "name": "2nd Row Center Armrest",
+                    "value": "folding with pass-thru"
+                },
+                {
+                    "name": "2nd/3rd Row Easy Entry",
+                    "value": "manual rear seat"
+                }
+            ]
+        },
+        {
+            "id": "10094638522",
+            "name": "Power Outlets",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Power Outlet(s)",
+                    "value": "12V"
+                }
+            ]
+        },
+        {
+            "id": "10094638523",
+            "name": "Seatbelts",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Seatbelt Pretensioners",
+                    "value": "front"
+                },
+                {
+                    "name": "Seatbelt Force Limiters",
+                    "value": "front"
+                }
+            ]
+        },
+        {
+            "id": "10094638524",
+            "name": "Suspension",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Front Suspension Classification",
+                    "value": "independent"
+                },
+                {
+                    "name": "Rear Spring Type",
+                    "value": "coil springs"
+                },
+                {
+                    "name": "Independent Suspension",
+                    "value": "four-wheel"
+                },
+                {
+                    "name": "Rear Suspension Type",
+                    "value": "multi-link"
+                },
+                {
+                    "name": "Rear Arm Type",
+                    "value": "trailing links, lateral links"
+                },
+                {
+                    "name": "Front Arm Type",
+                    "value": "lower control arms"
+                },
+                {
+                    "name": "Rear Suspension Classification",
+                    "value": "independent"
+                },
+                {
+                    "name": "Front Stabilizer Bar",
+                    "value": "stabilizer bar"
+                },
+                {
+                    "name": "Front Spring Type",
+                    "value": "coil springs"
+                },
+                {
+                    "name": "Rear Stabilizer Bar",
+                    "value": "stabilizer bar"
+                },
+                {
+                    "name": "Front Suspension Type",
+                    "value": "MacPherson strut"
+                }
+            ]
+        },
+        {
+            "id": "10094638525",
+            "name": "1st Row Seats",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "1st Row Seat Type",
+                    "value": "bucket"
+                },
+                {
+                    "name": "Adjustable Seat Headrest",
+                    "value": "height adjustable headrests"
+                },
+                {
+                    "name": "1st Row Upholstery",
+                    "value": "leatherette"
+                },
+                {
+                    "name": "Number Of 1st Row Headrests",
+                    "value": "2"
+                }
+            ]
+        },
+        {
+            "id": "10094638526",
+            "name": "Cargo Dimensions",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Cargo Capacity, All Seats In Place",
+                    "value": "11.1"
+                }
+            ]
+        },
+        {
+            "id": "10094638529",
+            "name": "Steering",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Power Steering",
+                    "value": "speed-proportional power steering"
+                }
+            ]
+        },
+        {
+            "id": "10094638530",
+            "name": "Drive Type",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Driven Wheels",
+                    "value": "all wheel drive"
+                }
+            ]
+        },
+        {
+            "id": "10094638531",
+            "name": "Storage",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Cargo Tie Downs",
+                    "value": "cargo tie downs"
+                },
+                {
+                    "name": "Cupholders Location",
+                    "value": "front and rear"
+                },
+                {
+                    "name": "Seatback Storage",
+                    "value": "front seatback storage"
+                },
+                {
+                    "name": "Door Pockets Location",
+                    "value": "front"
+                },
+                {
+                    "name": "Center Console",
+                    "value": "front console with storage"
+                }
+            ]
+        },
+        {
+            "id": "10094638532",
+            "name": "Doors",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Number Of Doors",
+                    "value": "2"
+                }
+            ]
+        },
+        {
+            "id": "10094638533",
+            "name": "Exterior Dimensions",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Overall Width Without Mirrors",
+                    "value": "70.2"
+                },
+                {
+                    "name": "Overall Length",
+                    "value": "181.1"
+                },
+                {
+                    "name": "Wheelbase",
+                    "value": "108.7"
+                },
+                {
+                    "name": "Overall Height",
+                    "value": "54.9"
+                },
+                {
+                    "name": "Rear Track",
+                    "value": "59.6"
+                },
+                {
+                    "name": "Front Track",
+                    "value": "59.1"
+                }
+            ]
+        },
+        {
+            "id": "10094638534",
+            "name": "Front Passenger Seat",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Number Of Passenger Seat Manual Adjustments",
+                    "value": "4"
+                }
+            ]
+        },
+        {
+            "id": "10094638535",
+            "name": "Airbags",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Head Airbags",
+                    "value": "front and rear"
+                },
+                {
+                    "name": "Passenger Airbag Deactivation",
+                    "value": "occupant sensing deactivation"
+                },
+                {
+                    "name": "Side Airbags",
+                    "value": "dual front"
+                },
+                {
+                    "name": "Passenger Airbag",
+                    "value": "Standard"
+                },
+                {
+                    "name": "Depowered Airbags",
+                    "value": "Standard"
+                }
+            ]
+        },
+        {
+            "id": "10094638536",
+            "name": "Exterior Lights",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Front Fog Lights",
+                    "value": "front fog/driving lights"
+                },
+                {
+                    "name": "Self Leveling Headlights",
+                    "value": "self-leveling"
+                },
+                {
+                    "name": "Headlight Cleaners",
+                    "value": "high pressure washers"
+                },
+                {
+                    "name": "Adaptive Taillights",
+                    "value": "adaptive taillights"
+                },
+                {
+                    "name": "Cornering Lights",
+                    "value": "cornering lights"
+                },
+                {
+                    "name": "Exterior Entry Lights",
+                    "value": "exterior entry lighting"
+                },
+                {
+                    "name": "Headlights Auto Delay",
+                    "value": "auto delay off"
+                },
+                {
+                    "name": "Xenon Headlights",
+                    "value": "xenon high intensity discharge"
+                },
+                {
+                    "name": "Daytime Running Lights",
+                    "value": "daytime running lights"
+                },
+                {
+                    "name": "Headlights Dusk Sensor",
+                    "value": "dusk sensing"
+                },
+                {
+                    "name": "Adaptive Headlights",
+                    "value": "adaptive headlights"
+                }
+            ]
+        },
+        {
+            "id": "10094638537",
+            "name": "Seating Configuration",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "1st Row Seating Capacity",
+                    "value": "2"
+                },
+                {
+                    "name": "2nd Row Seating Capacity",
+                    "value": "2"
+                }
+            ]
+        },
+        {
+            "id": "10094638538",
+            "name": "Specifications",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Ege Highway Mpg",
+                    "value": "25"
+                },
+                {
+                    "name": "Epa Combined Mpg",
+                    "value": "20"
+                },
+                {
+                    "name": "Aerodynamic Drag (cd)",
+                    "value": "0.30"
+                },
+                {
+                    "name": "Epa City Mpg",
+                    "value": "17"
+                },
+                {
+                    "name": "Curb Weight",
+                    "value": "3582"
+                },
+                {
+                    "name": "Turning Diameter",
+                    "value": "38.7"
+                },
+                {
+                    "name": "Tco Curb Weight",
+                    "value": "3582"
+                },
+                {
+                    "name": "Ege Combined Mpg",
+                    "value": "20"
+                },
+                {
+                    "name": "Epa Highway Mpg",
+                    "value": "25"
+                },
+                {
+                    "name": "Manufacturer 0 60mph Acceleration Time (seconds)",
+                    "value": "6.8"
+                },
+                {
+                    "name": "Fuel Capacity",
+                    "value": "16.1"
+                },
+                {
+                    "name": "Ege City Mpg",
+                    "value": "17"
+                }
+            ]
+        },
+        {
+            "id": "10094638539",
+            "name": "Driver Seat",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Number Of Driver Seat Manual Adjustments",
+                    "value": "6"
+                },
+                {
+                    "name": "Height Adjustable Driver Seat",
+                    "value": "height adjustable"
+                }
+            ]
+        },
+        {
+            "id": "10094638540",
+            "name": "Windows",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Remote Window Operation",
+                    "value": "remote window operation"
+                },
+                {
+                    "name": "Rain Sensing Front Wipers",
+                    "value": "rain sensing"
+                },
+                {
+                    "name": "Heated Windshield Washer Jets",
+                    "value": "heated windshield washer jets"
+                },
+                {
+                    "name": "One Touch Windows",
+                    "value": "2"
+                },
+                {
+                    "name": "Power Windows",
+                    "value": "power windows"
+                },
+                {
+                    "name": "Intermittent Front Wipers",
+                    "value": "variable intermittent"
+                },
+                {
+                    "name": "Rear Defogger",
+                    "value": "rear defogger"
+                }
+            ]
+        },
+        {
+            "id": "10094638543",
+            "name": "Trunk",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Emergency Trunk Release",
+                    "value": "interior trunk release"
+                },
+                {
+                    "name": "Remote Trunk Release",
+                    "value": "remote trunk release"
+                }
+            ]
+        },
+        {
+            "id": "10094638546",
+            "name": "Sunroof",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "One Touch Power Sunroof",
+                    "value": "one-touch power sunroof"
+                },
+                {
+                    "name": "Remote Sunroof Operation",
+                    "value": "remote sunroof operation"
+                },
+                {
+                    "name": "Sunroof",
+                    "value": "power glass"
+                }
+            ]
+        },
+        {
+            "id": "10094638547",
+            "name": "Misc. Exterior Features",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Chrome Grille",
+                    "value": "chrome grille"
+                }
+            ]
+        },
+        {
+            "id": "10094638548",
+            "name": "Interior Dimensions",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "2nd Row Leg Room",
+                    "value": "33.7"
+                },
+                {
+                    "name": "2nd Row Shoulder Room",
+                    "value": "51.9"
+                },
+                {
+                    "name": "1st Row Leg Room",
+                    "value": "41.8"
+                },
+                {
+                    "name": "1st Row Head Room",
+                    "value": "37.1"
+                },
+                {
+                    "name": "2nd Row Head Room",
+                    "value": "36.1"
+                },
+                {
+                    "name": "Epa Interior Volume",
+                    "value": "99.6"
+                },
+                {
+                    "name": "1st Row Shoulder Room",
+                    "value": "55.3"
+                }
+            ]
+        },
+        {
+            "id": "10094638549",
+            "name": "Security",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Engine Immobilizer",
+                    "value": "engine immobilizer"
+                },
+                {
+                    "name": "Power Door Locks",
+                    "value": "remote keyless power door locks"
+                },
+                {
+                    "name": "2 Stage Unlocking",
+                    "value": "remote 2-stage unlocking"
+                }
+            ]
+        },
+        {
+            "id": "10094638550",
+            "name": "Differential",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Limited Slip Center Differential",
+                    "value": "limited slip center differential"
+                },
+                {
+                    "name": "Center Differential",
+                    "value": "mechanical"
+                }
+            ]
+        },
+        {
+            "id": "10094638551",
+            "name": "Collision Safety System",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Post Collision Safety System",
+                    "value": "post-collision safety system"
+                }
+            ]
+        },
+        {
+            "id": "10094638552",
+            "name": "Misc. Interior Features",
+            "equipmentType": "OTHER",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Cruise Control",
+                    "value": "cruise control"
+                },
+                {
+                    "name": "Floor Mats",
+                    "value": "floor mats"
+                },
+                {
+                    "name": "2nd Row Floor Mats",
+                    "value": "rear floor mats"
+                },
+                {
+                    "name": "Beverage Cooler",
+                    "value": "cooled storage compartment"
+                },
+                {
+                    "name": "Cargo Area Light",
+                    "value": "trunk light"
+                },
+                {
+                    "name": "Reading Lights",
+                    "value": "front and rear reading lights"
+                },
+                {
+                    "name": "Retained Accessory Power",
+                    "value": "retained accessory power"
+                },
+                {
+                    "name": "Floor Mat Material",
+                    "value": "carpet"
+                }
+            ]
+        },
+        {
+            "id": "200112909",
+            "name": "Tires",
+            "equipmentType": "TIRES",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200112908",
+                    "name": "Sport Package Wheel/Tire Upgrade",
+                    "description": "Includes 18\" x 8\" front and 18\" x 8.5\" rear Cross Spoke (style 197) alloy wheels with 225/40WR18 front and 255/35WR18 rear run-flat performance tires.",
+                    "equipmentType": "OPTION",
+                    "availability": "328xi Cpe",
+                    "price": {
+                        "baseMSRP": 600,
+                        "baseInvoice": 545,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "Sport Package Wheel/Tire Upgrade",
+                    "manufactureOptionCode": "2DA",
+                    "category": "Other",
+                    "attributes": []
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "Front Tires Diameter",
+                    "value": "18"
+                },
+                {
+                    "name": "Rear Tire Speed Rating Grouping",
+                    "value": "Z"
+                },
+                {
+                    "name": "Front Tire Profile",
+                    "value": "40"
+                },
+                {
+                    "name": "Front Tire Speed Rating",
+                    "value": "W"
+                },
+                {
+                    "name": "Rear Tire Width",
+                    "value": "255"
+                },
+                {
+                    "name": "Run Flat Tires",
+                    "value": "run flat"
+                },
+                {
+                    "name": "Tire Type",
+                    "value": "performance"
+                },
+                {
+                    "name": "Front Tire Width",
+                    "value": "225"
+                },
+                {
+                    "name": "Rear Tire Profile",
+                    "value": "35"
+                },
+                {
+                    "name": "Rear Tire Diameter",
+                    "value": "18"
+                },
+                {
+                    "name": "Rear Tire Speed Rating",
+                    "value": "W"
+                }
+            ]
+        },
+        {
+            "id": "200112910",
+            "name": "Wheels",
+            "equipmentType": "WHEELS",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200112908",
+                    "name": "Sport Package Wheel/Tire Upgrade",
+                    "description": "Includes 18\" x 8\" front and 18\" x 8.5\" rear Cross Spoke (style 197) alloy wheels with 225/40WR18 front and 255/35WR18 rear run-flat performance tires.",
+                    "equipmentType": "OPTION",
+                    "availability": "328xi Cpe",
+                    "price": {
+                        "baseMSRP": 600,
+                        "baseInvoice": 545,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "Sport Package Wheel/Tire Upgrade",
+                    "manufactureOptionCode": "2DA",
+                    "category": "Other",
+                    "attributes": []
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "Rim Type",
+                    "value": "alloy"
+                },
+                {
+                    "name": "Front Wheel Diameter",
+                    "value": "18"
+                },
+                {
+                    "name": "Rear Wheel Diameter",
+                    "value": "18"
+                },
+                {
+                    "name": "Rear Wheel Width",
+                    "value": "8.5"
+                },
+                {
+                    "name": "Front Wheel Width",
+                    "value": "8.0"
+                }
+            ]
+        },
+        {
+            "id": "200112913",
+            "name": "Engine",
+            "equipmentType": "ENGINE",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200112912",
+                    "name": "Comfort Access",
+                    "description": "Includes Comfort Access remote.  Comfort Access allows the user to unlock/lock and enter the car and start/stop the engine without using the key or keyfob, as long as the user has the keyfob in his or her possession.",
+                    "equipmentType": "OPTION",
+                    "availability": "All except Convertibles",
+                    "price": {
+                        "baseMSRP": 500,
+                        "baseInvoice": 455,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "Comfort Access",
+                    "manufactureOptionCode": "322",
+                    "category": "Other",
+                    "attributes": [
+                        {
+                            "name": "Keyless Ignition",
+                            "value": "keyless ignition"
+                        }
+                    ]
+                }
+            ],
+            "code": "nullNAG",
+            "compressorType": "NA"
+        },
+        {
+            "id": "200112930",
+            "name": "Audio System",
+            "equipmentType": "AUDIO_SYSTEM",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200112929",
+                    "name": "Logic7 Sound System W/Surround Sound",
+                    "description": "Includes Logic 7 anti-theft audio system with Radio Data System (RDS), Digital Sound Processing (DSP), Auto-Store, 3-channel FM diversity antenna, CD player with MP3 capability, Surround Sound simulation and 13 upgraded speakers including 2 subwoofers.",
+                    "equipmentType": "OPTION",
+                    "availability": "328i Cpe/328xi Cpe/328i Sdn/328xi Sdn/328i Wgn/328xi Wgn",
+                    "price": {
+                        "baseMSRP": 1200,
+                        "baseInvoice": 1090,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "Logic7 Sound System w/Surround Sound",
+                    "manufactureOptionCode": "677",
+                    "category": "Other",
+                    "attributes": []
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "Total Number Of Speakers",
+                    "value": "13"
+                },
+                {
+                    "name": "Cd Mp3 Playback",
+                    "value": "CD MP3 Playback"
+                },
+                {
+                    "name": "Audio Security System",
+                    "value": "audio security system"
+                },
+                {
+                    "name": "Radio Data System",
+                    "value": "radio data system"
+                },
+                {
+                    "name": "Surround Audio",
+                    "value": "surround audio"
+                },
+                {
+                    "name": "Subwoofer",
+                    "value": "2"
+                }
+            ]
+        },
+        {
+            "id": "200112943",
+            "name": "6A",
+            "equipmentType": "TRANSMISSION",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200112942",
+                    "name": "6-Speed STEPTRONIC Automatic Transmission",
+                    "description": "Includes 6-speed automatic transmission with Adaptive Transmission Control and STEPTRONIC features.  STEPTRONIC allows the driver to choose between automanual or full automatic shift modes.",
+                    "equipmentType": "OPTION",
+                    "availability": "All",
+                    "price": {
+                        "baseMSRP": 1325,
+                        "baseInvoice": 1260,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "6-Speed STEPTRONIC Automatic Transmission",
+                    "manufactureOptionCode": "205",
+                    "category": "Other",
+                    "attributes": []
+                }
+            ],
+            "automaticType": "Shiftable automatic",
+            "transmissionType": "AUTOMATIC",
+            "numberOfSpeeds": "6"
+        },
+        {
+            "id": "200112947",
+            "name": "Audio System",
+            "equipmentType": "AUDIO_SYSTEM",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200112946",
+                    "name": "SIRIUS Satellite Radio",
+                    "description": "(A one year subscription to Sirius satellite radio service is included in this option.)",
+                    "equipmentType": "OPTION",
+                    "availability": "All",
+                    "price": {
+                        "baseMSRP": 595,
+                        "baseInvoice": 540,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "SIRIUS Satellite Radio",
+                    "manufactureOptionCode": "655",
+                    "category": "Other",
+                    "attributes": []
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "Satellite Radio",
+                    "value": "satellite radio"
+                }
+            ]
+        },
+        {
+            "id": "200112949",
+            "name": "Audio System",
+            "equipmentType": "AUDIO_SYSTEM",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200112948",
+                    "name": "IPod And USB Adapter",
+                    "description": "(When this option is selected, the iPod application of an iPhone can be used.)",
+                    "equipmentType": "OPTION",
+                    "availability": "All",
+                    "price": {
+                        "baseMSRP": 400,
+                        "baseInvoice": 365,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "iPod and USB Adapter",
+                    "manufactureOptionCode": "6FL",
+                    "category": "Other",
+                    "attributes": []
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "Digital Audio Input",
+                    "value": "USB with external media control"
+                },
+                {
+                    "name": "Usb Connection",
+                    "value": "USB connection"
+                }
+            ]
+        },
+        {
+            "id": "200112971",
+            "name": "Tires",
+            "equipmentType": "TIRES",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200112970",
+                    "name": "Sport Package",
+                    "description": "Includes 17\" x 8\" Star Spoke (style 185) alloy wheels with 225/45HR17 run-flat all season tires, 10-way manual front sport seats with manually adjustable backrest width, 2-way manual headrests and thigh support.",
+                    "equipmentType": "OPTION",
+                    "availability": "328xi Cpe",
+                    "price": {
+                        "baseMSRP": 500,
+                        "baseInvoice": 455,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "Sport Package",
+                    "manufactureOptionCode": "ZSP",
+                    "category": "Other",
+                    "attributes": [
+                        {
+                            "name": "Height Adjustable Passenger Seat",
+                            "value": "height adjustable"
+                        },
+                        {
+                            "name": "Number Of Passenger Seat Manual Adjustments",
+                            "value": "10"
+                        },
+                        {
+                            "name": "1st Row Seat Type",
+                            "value": "sport"
+                        },
+                        {
+                            "name": "Adjustable Seat Headrest",
+                            "value": "height adjustable headrests"
+                        },
+                        {
+                            "name": "Number Of 1st Row Headrests",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Number Of Driver Seat Manual Adjustments",
+                            "value": "10"
+                        },
+                        {
+                            "name": "Height Adjustable Driver Seat",
+                            "value": "height adjustable"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "Rear Tire Width",
+                    "value": "225"
+                },
+                {
+                    "name": "Tire Type",
+                    "value": "all season"
+                },
+                {
+                    "name": "Run Flat Tires",
+                    "value": "run flat"
+                },
+                {
+                    "name": "Rear Tire Diameter",
+                    "value": "17"
+                },
+                {
+                    "name": "Rear Tire Profile",
+                    "value": "45"
+                },
+                {
+                    "name": "Rear Tire Speed Rating",
+                    "value": "H"
+                }
+            ]
+        },
+        {
+            "id": "200112972",
+            "name": "Wheels",
+            "equipmentType": "WHEELS",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200112970",
+                    "name": "Sport Package",
+                    "description": "Includes 17\" x 8\" Star Spoke (style 185) alloy wheels with 225/45HR17 run-flat all season tires, 10-way manual front sport seats with manually adjustable backrest width, 2-way manual headrests and thigh support.",
+                    "equipmentType": "OPTION",
+                    "availability": "328xi Cpe",
+                    "price": {
+                        "baseMSRP": 500,
+                        "baseInvoice": 455,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "Sport Package",
+                    "manufactureOptionCode": "ZSP",
+                    "category": "Other",
+                    "attributes": [
+                        {
+                            "name": "Height Adjustable Passenger Seat",
+                            "value": "height adjustable"
+                        },
+                        {
+                            "name": "Number Of Passenger Seat Manual Adjustments",
+                            "value": "10"
+                        },
+                        {
+                            "name": "1st Row Seat Type",
+                            "value": "sport"
+                        },
+                        {
+                            "name": "Adjustable Seat Headrest",
+                            "value": "height adjustable headrests"
+                        },
+                        {
+                            "name": "Number Of 1st Row Headrests",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Number Of Driver Seat Manual Adjustments",
+                            "value": "10"
+                        },
+                        {
+                            "name": "Height Adjustable Driver Seat",
+                            "value": "height adjustable"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "Rim Type",
+                    "value": "alloy"
+                },
+                {
+                    "name": "Rear Wheel Diameter",
+                    "value": "17"
+                },
+                {
+                    "name": "Rear Wheel Width",
+                    "value": "8.0"
+                },
+                {
+                    "name": "Wheel Upgrade",
+                    "value": "upgraded"
+                }
+            ]
+        },
+        {
+            "id": "200112974",
+            "name": "Tires",
+            "equipmentType": "TIRES",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200112973",
+                    "name": "Sport Package",
+                    "description": "Includes 17\" x 8\" Star Spoke (style 185) alloy wheels with 225/45HR17 run-flat all season tires, 8-way power front sport seats with power adjustable backrest width, 4-way power adjustable lumbar and 2-way manual headrests and thigh support.",
+                    "equipmentType": "OPTION",
+                    "availability": "328xi Cpe",
+                    "price": {
+                        "baseMSRP": 500,
+                        "baseInvoice": 455,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "Sport Package",
+                    "manufactureOptionCode": "ZSP",
+                    "category": "Other",
+                    "attributes": [
+                        {
+                            "name": "Height Adjustable Passenger Seat",
+                            "value": "height adjustable"
+                        },
+                        {
+                            "name": "Number Of Passenger Seat Manual Adjustments",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Number Of Passenger Seat Power Adjustments",
+                            "value": "8"
+                        },
+                        {
+                            "name": "Passenger Seat Adjustable Lumbar",
+                            "value": "power adjustable lumbar support"
+                        },
+                        {
+                            "name": "1st Row Seat Type",
+                            "value": "sport"
+                        },
+                        {
+                            "name": "Adjustable Seat Headrest",
+                            "value": "height adjustable headrests"
+                        },
+                        {
+                            "name": "Number Of 1st Row Headrests",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Number Of Driver Seat Manual Adjustments",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Height Adjustable Driver Seat",
+                            "value": "height adjustable"
+                        },
+                        {
+                            "name": "Driver Seat Adjustable Lumbar",
+                            "value": "power adjustable lumbar support"
+                        },
+                        {
+                            "name": "Number Of Driver Seat Power Adjustments",
+                            "value": "8"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "Rear Tire Width",
+                    "value": "225"
+                },
+                {
+                    "name": "Tire Type",
+                    "value": "all season"
+                },
+                {
+                    "name": "Run Flat Tires",
+                    "value": "run flat"
+                },
+                {
+                    "name": "Rear Tire Diameter",
+                    "value": "17"
+                },
+                {
+                    "name": "Rear Tire Profile",
+                    "value": "45"
+                },
+                {
+                    "name": "Rear Tire Speed Rating",
+                    "value": "H"
+                }
+            ]
+        },
+        {
+            "id": "200112975",
+            "name": "Wheels",
+            "equipmentType": "WHEELS",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200112973",
+                    "name": "Sport Package",
+                    "description": "Includes 17\" x 8\" Star Spoke (style 185) alloy wheels with 225/45HR17 run-flat all season tires, 8-way power front sport seats with power adjustable backrest width, 4-way power adjustable lumbar and 2-way manual headrests and thigh support.",
+                    "equipmentType": "OPTION",
+                    "availability": "328xi Cpe",
+                    "price": {
+                        "baseMSRP": 500,
+                        "baseInvoice": 455,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "Sport Package",
+                    "manufactureOptionCode": "ZSP",
+                    "category": "Other",
+                    "attributes": [
+                        {
+                            "name": "Height Adjustable Passenger Seat",
+                            "value": "height adjustable"
+                        },
+                        {
+                            "name": "Number Of Passenger Seat Manual Adjustments",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Number Of Passenger Seat Power Adjustments",
+                            "value": "8"
+                        },
+                        {
+                            "name": "Passenger Seat Adjustable Lumbar",
+                            "value": "power adjustable lumbar support"
+                        },
+                        {
+                            "name": "1st Row Seat Type",
+                            "value": "sport"
+                        },
+                        {
+                            "name": "Adjustable Seat Headrest",
+                            "value": "height adjustable headrests"
+                        },
+                        {
+                            "name": "Number Of 1st Row Headrests",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Number Of Driver Seat Manual Adjustments",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Height Adjustable Driver Seat",
+                            "value": "height adjustable"
+                        },
+                        {
+                            "name": "Driver Seat Adjustable Lumbar",
+                            "value": "power adjustable lumbar support"
+                        },
+                        {
+                            "name": "Number Of Driver Seat Power Adjustments",
+                            "value": "8"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "Rim Type",
+                    "value": "alloy"
+                },
+                {
+                    "name": "Rear Wheel Diameter",
+                    "value": "17"
+                },
+                {
+                    "name": "Rear Wheel Width",
+                    "value": "8.0"
+                },
+                {
+                    "name": "Wheel Upgrade",
+                    "value": "upgraded"
+                }
+            ]
+        },
+        {
+            "id": "200112977",
+            "name": "Tires",
+            "equipmentType": "TIRES",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200112976",
+                    "name": "Sport Package",
+                    "description": "Includes 17\" x 8\" Star Spoke (style 185) alloy wheels with 225/45HR17 run-flat all season tires, 8-way power front sport seats with power adjustable backrest width and 2-way manual headrests and thigh support.",
+                    "equipmentType": "OPTION",
+                    "availability": "328xi Cpe",
+                    "price": {
+                        "baseMSRP": 500,
+                        "baseInvoice": 455,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "Sport Package",
+                    "manufactureOptionCode": "ZSP",
+                    "category": "Other",
+                    "attributes": [
+                        {
+                            "name": "Height Adjustable Passenger Seat",
+                            "value": "height adjustable"
+                        },
+                        {
+                            "name": "Number Of Passenger Seat Manual Adjustments",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Number Of Passenger Seat Power Adjustments",
+                            "value": "8"
+                        },
+                        {
+                            "name": "1st Row Seat Type",
+                            "value": "sport"
+                        },
+                        {
+                            "name": "Adjustable Seat Headrest",
+                            "value": "height adjustable headrests"
+                        },
+                        {
+                            "name": "Number Of 1st Row Headrests",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Number Of Driver Seat Manual Adjustments",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Height Adjustable Driver Seat",
+                            "value": "height adjustable"
+                        },
+                        {
+                            "name": "Number Of Driver Seat Power Adjustments",
+                            "value": "8"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "Rear Tire Width",
+                    "value": "225"
+                },
+                {
+                    "name": "Tire Type",
+                    "value": "all season"
+                },
+                {
+                    "name": "Run Flat Tires",
+                    "value": "run flat"
+                },
+                {
+                    "name": "Rear Tire Profile",
+                    "value": "45"
+                },
+                {
+                    "name": "Rear Tire Diameter",
+                    "value": "17"
+                },
+                {
+                    "name": "Rear Tire Speed Rating",
+                    "value": "H"
+                }
+            ]
+        },
+        {
+            "id": "200112978",
+            "name": "Wheels",
+            "equipmentType": "WHEELS",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200112976",
+                    "name": "Sport Package",
+                    "description": "Includes 17\" x 8\" Star Spoke (style 185) alloy wheels with 225/45HR17 run-flat all season tires, 8-way power front sport seats with power adjustable backrest width and 2-way manual headrests and thigh support.",
+                    "equipmentType": "OPTION",
+                    "availability": "328xi Cpe",
+                    "price": {
+                        "baseMSRP": 500,
+                        "baseInvoice": 455,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "Sport Package",
+                    "manufactureOptionCode": "ZSP",
+                    "category": "Other",
+                    "attributes": [
+                        {
+                            "name": "Height Adjustable Passenger Seat",
+                            "value": "height adjustable"
+                        },
+                        {
+                            "name": "Number Of Passenger Seat Manual Adjustments",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Number Of Passenger Seat Power Adjustments",
+                            "value": "8"
+                        },
+                        {
+                            "name": "1st Row Seat Type",
+                            "value": "sport"
+                        },
+                        {
+                            "name": "Adjustable Seat Headrest",
+                            "value": "height adjustable headrests"
+                        },
+                        {
+                            "name": "Number Of 1st Row Headrests",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Number Of Driver Seat Manual Adjustments",
+                            "value": "2"
+                        },
+                        {
+                            "name": "Height Adjustable Driver Seat",
+                            "value": "height adjustable"
+                        },
+                        {
+                            "name": "Number Of Driver Seat Power Adjustments",
+                            "value": "8"
+                        }
+                    ]
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "Rim Type",
+                    "value": "alloy"
+                },
+                {
+                    "name": "Rear Wheel Diameter",
+                    "value": "17"
+                },
+                {
+                    "name": "Rear Wheel Width",
+                    "value": "8.0"
+                },
+                {
+                    "name": "Wheel Upgrade",
+                    "value": "upgraded"
+                }
+            ]
+        },
+        {
+            "id": "200113013",
+            "name": "Audio System",
+            "equipmentType": "AUDIO_SYSTEM",
+            "availability": "OPTIONAL",
+            "options": [
+                {
+                    "id": "200113012",
+                    "name": "HD Radio",
+                    "description": "Includes digital radio which receives AM/FM stations via digital signal for enhanced audio quality.",
+                    "equipmentType": "OPTION",
+                    "availability": "All",
+                    "price": {
+                        "baseMSRP": 350,
+                        "baseInvoice": 315,
+                        "estimateTmv": false
+                    },
+                    "manufactureOptionName": "HD Radio",
+                    "manufactureOptionCode": "653",
+                    "category": "Other",
+                    "attributes": []
+                }
+            ],
+            "attributes": [
+                {
+                    "name": "Radio",
+                    "value": "AM/FM HD Radio"
+                }
+            ]
+        },
+        {
+            "id": "200113014",
+            "name": "Warranty",
+            "equipmentType": "WARRANTY",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Warranty Maximum Mileage",
+                    "value": "50000"
+                },
+                {
+                    "name": "Warranty Miles Limited/unlimited",
+                    "value": "L"
+                },
+                {
+                    "name": "Warranty Years Limited/unlimited",
+                    "value": "L"
+                },
+                {
+                    "name": "Warranty Maximum Years",
+                    "value": "4"
+                },
+                {
+                    "name": "Warranty Type",
+                    "value": "Basic"
+                }
+            ]
+        },
+        {
+            "id": "200113015",
+            "name": "Warranty",
+            "equipmentType": "WARRANTY",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Warranty Maximum Mileage",
+                    "value": "50000"
+                },
+                {
+                    "name": "Warranty Miles Limited/unlimited",
+                    "value": "L"
+                },
+                {
+                    "name": "Warranty Years Limited/unlimited",
+                    "value": "L"
+                },
+                {
+                    "name": "Warranty Maximum Years",
+                    "value": "4"
+                },
+                {
+                    "name": "Warranty Type",
+                    "value": "Drivetrain"
+                }
+            ]
+        },
+        {
+            "id": "200113016",
+            "name": "Warranty",
+            "equipmentType": "WARRANTY",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Warranty Maximum Mileage",
+                    "value": "50000"
+                },
+                {
+                    "name": "Warranty Miles Limited/unlimited",
+                    "value": "L"
+                },
+                {
+                    "name": "Warranty Comments",
+                    "value": "Free full maintenance for 4 years or 50,000 miles."
+                },
+                {
+                    "name": "Warranty Years Limited/unlimited",
+                    "value": "L"
+                },
+                {
+                    "name": "Warranty Maximum Years",
+                    "value": "4"
+                },
+                {
+                    "name": "Warranty Type",
+                    "value": "Free Maintenance"
+                }
+            ]
+        },
+        {
+            "id": "200113017",
+            "name": "Warranty",
+            "equipmentType": "WARRANTY",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Warranty Miles Limited/unlimited",
+                    "value": "U"
+                },
+                {
+                    "name": "Warranty Years Limited/unlimited",
+                    "value": "L"
+                },
+                {
+                    "name": "Warranty Maximum Years",
+                    "value": "4"
+                },
+                {
+                    "name": "Warranty Type",
+                    "value": "Roadside"
+                }
+            ]
+        },
+        {
+            "id": "200113018",
+            "name": "Warranty",
+            "equipmentType": "WARRANTY",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Warranty Miles Limited/unlimited",
+                    "value": "U"
+                },
+                {
+                    "name": "Warranty Years Limited/unlimited",
+                    "value": "L"
+                },
+                {
+                    "name": "Warranty Maximum Years",
+                    "value": "12"
+                },
+                {
+                    "name": "Warranty Type",
+                    "value": "Rust"
+                }
+            ]
+        },
+        {
+            "id": "200113026",
+            "name": "Engine",
+            "equipmentType": "ENGINE",
+            "availability": "STANDARD",
+            "compressionRatio": 10.7,
+            "cylinder": 6,
+            "size": 3,
+            "displacement": 2996,
+            "configuration": "inline",
+            "fuelType": "premium unleaded (required)",
+            "horsepower": 230,
+            "torque": 200,
+            "totalValves": 24,
+            "manufacturerEngineCode": "N52",
+            "type": "gas",
+            "code": "6INAG3.0",
+            "compressorType": "NA",
+            "rpm": {
+                "horsepower": 6500,
+                "torque": 2750
+            },
+            "valve": {
+                "timing": "variable valve timing",
+                "gear": "double overhead camshaft"
+            }
+        },
+        {
+            "id": "200113027",
+            "name": "6M",
+            "equipmentType": "TRANSMISSION",
+            "availability": "STANDARD",
+            "transmissionType": "MANUAL",
+            "numberOfSpeeds": "6"
+        },
+        {
+            "id": "200113028",
+            "name": "Audio System",
+            "equipmentType": "AUDIO_SYSTEM",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Total Number Of Speakers",
+                    "value": "10"
+                },
+                {
+                    "name": "Digital Audio Input",
+                    "value": "auxiliary audio input"
+                },
+                {
+                    "name": "Antenna Type",
+                    "value": "diversity"
+                },
+                {
+                    "name": "Cd Player",
+                    "value": "single CD player"
+                },
+                {
+                    "name": "Cd Mp3 Playback",
+                    "value": "CD MP3 Playback"
+                },
+                {
+                    "name": "Audio Security System",
+                    "value": "audio security system"
+                },
+                {
+                    "name": "Radio",
+                    "value": "AM/FM"
+                },
+                {
+                    "name": "Radio Data System",
+                    "value": "radio data system"
+                },
+                {
+                    "name": "Cd Changer Controller",
+                    "value": "CD-controller"
+                },
+                {
+                    "name": "Subwoofer",
+                    "value": "2"
+                }
+            ]
+        },
+        {
+            "id": "200113029",
+            "name": "Tires",
+            "equipmentType": "TIRES",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Rear Tire Width",
+                    "value": "225"
+                },
+                {
+                    "name": "Run Flat Tires",
+                    "value": "run flat"
+                },
+                {
+                    "name": "Tire Type",
+                    "value": "all season"
+                },
+                {
+                    "name": "Rear Tire Profile",
+                    "value": "45"
+                },
+                {
+                    "name": "Rear Tire Diameter",
+                    "value": "17"
+                },
+                {
+                    "name": "Rear Tire Speed Rating",
+                    "value": "H"
+                }
+            ]
+        },
+        {
+            "id": "200113030",
+            "name": "Wheels",
+            "equipmentType": "WHEELS",
+            "availability": "STANDARD",
+            "attributes": [
+                {
+                    "name": "Rim Type",
+                    "value": "alloy"
+                },
+                {
+                    "name": "Rear Wheel Diameter",
+                    "value": "17"
+                },
+                {
+                    "name": "Rear Wheel Width",
+                    "value": "8.0"
+                }
+            ]
+        },
+        {
+            "id": "TMVU1009463851020000001",
+            "name": "6-Speed Shiftable Automatic Transmission",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 323,
+                "usedPrivateParty": 269,
+                "usedTradeIn": 224,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463851501000053",
+            "name": "18 Inch Alloy Wheels",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 146,
+                "usedPrivateParty": 122,
+                "usedTradeIn": 101,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463852510000028",
+            "name": "Premium Leather Seating",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 309,
+                "usedPrivateParty": 257,
+                "usedTradeIn": 214,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463852510000030",
+            "name": "Front Sport Seats",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 73,
+                "usedPrivateParty": 61,
+                "usedTradeIn": 51,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463852610000001",
+            "name": "Power Driver's Seat Lumbar Adjustment",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 14,
+                "usedPrivateParty": 11,
+                "usedTradeIn": 9,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463852610000003",
+            "name": "Heated Passenger Seat",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 51,
+                "usedPrivateParty": 43,
+                "usedTradeIn": 35,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463852610000004",
+            "name": "Heated Driver's Seat",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 51,
+                "usedPrivateParty": 43,
+                "usedTradeIn": 35,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463852610000012",
+            "name": "Power Passenger Seat Lumbar Adjustment",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 14,
+                "usedPrivateParty": 11,
+                "usedTradeIn": 9,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463852610000021",
+            "name": "2-Way Manual Driver's Seat",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 4,
+                "usedPrivateParty": 3,
+                "usedTradeIn": 3,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463852610000025",
+            "name": "10-Way Manual Driver's Seat",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 13,
+                "usedPrivateParty": 11,
+                "usedTradeIn": 9,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463852610000034",
+            "name": "8-Way Power Driver's Seat",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 51,
+                "usedPrivateParty": 42,
+                "usedTradeIn": 35,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463852610000041",
+            "name": "2-Way Manual Front Passenger Seat",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 4,
+                "usedPrivateParty": 3,
+                "usedTradeIn": 3,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463852610000045",
+            "name": "10-Way Manual Front Passenger Seat",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 13,
+                "usedPrivateParty": 11,
+                "usedTradeIn": 9,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463852610000054",
+            "name": "8-Way Power Front Passenger Seat",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 51,
+                "usedPrivateParty": 42,
+                "usedTradeIn": 35,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463852710000017",
+            "name": "Rear Ski Bag",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 63,
+                "usedPrivateParty": 52,
+                "usedTradeIn": 43,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853110000001",
+            "name": "Driver's Seat Memory",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 32,
+                "usedPrivateParty": 26,
+                "usedTradeIn": 22,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853110000007",
+            "name": "Memorized Exterior Mirror Settings",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 21,
+                "usedPrivateParty": 17,
+                "usedTradeIn": 15,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853210000001",
+            "name": "Adaptive Cruise Control",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 584,
+                "usedPrivateParty": 486,
+                "usedTradeIn": 406,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853210000029",
+            "name": "Rear Parking Sensors",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 85,
+                "usedPrivateParty": 71,
+                "usedTradeIn": 59,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853210000039",
+            "name": "Steering Wheel Transmission Controls",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 24,
+                "usedPrivateParty": 20,
+                "usedTradeIn": 17,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853210000041",
+            "name": "Universal Remote Transmitter",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 40,
+                "usedPrivateParty": 34,
+                "usedTradeIn": 28,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853310000008",
+            "name": "Alloy Center Console Trim",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 0,
+                "usedPrivateParty": 0,
+                "usedTradeIn": 0,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853310000009",
+            "name": "Alloy Dash Trim",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 0,
+                "usedPrivateParty": 0,
+                "usedTradeIn": 0,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853310000010",
+            "name": "Alloy Door Trim",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 0,
+                "usedPrivateParty": 0,
+                "usedTradeIn": 0,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853310000036",
+            "name": "Leather Door Trim",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 32,
+                "usedPrivateParty": 27,
+                "usedTradeIn": 22,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853510000009",
+            "name": "Power Rear Sunshade",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 85,
+                "usedPrivateParty": 71,
+                "usedTradeIn": 59,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853810000000",
+            "name": "Auto-Dim Exterior Mirror(s)",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 40,
+                "usedPrivateParty": 34,
+                "usedTradeIn": 28,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853810000001",
+            "name": "Auto-Dim Rear View Mirror",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 32,
+                "usedPrivateParty": 27,
+                "usedTradeIn": 22,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853810000007",
+            "name": "Power Folding Exterior Mirrors",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 40,
+                "usedPrivateParty": 34,
+                "usedTradeIn": 28,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463853810000010",
+            "name": "Reverse Tilt Exterior Mirror",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 39,
+                "usedPrivateParty": 33,
+                "usedTradeIn": 27,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463854010000362",
+            "name": "AM/FM HD Radio Audio System",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 85,
+                "usedPrivateParty": 71,
+                "usedTradeIn": 59,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463854020000050",
+            "name": "Satellite Radio System",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 145,
+                "usedPrivateParty": 121,
+                "usedTradeIn": 101,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463854210000000",
+            "name": "Bluetooth",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 101,
+                "usedPrivateParty": 84,
+                "usedTradeIn": 70,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463854210000009",
+            "name": "Satellite Communications",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 23,
+                "usedPrivateParty": 19,
+                "usedTradeIn": 16,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463854210000011",
+            "name": "Voice Activated Navigation System",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 511,
+                "usedPrivateParty": 426,
+                "usedTradeIn": 355,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463854610000206",
+            "name": "Surround Sound Audio",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 292,
+                "usedPrivateParty": 243,
+                "usedTradeIn": 203,
+                "estimateTmv": false
+            }
+        },
+        {
+            "id": "TMVU1009463854610000216",
+            "name": "USB Port",
+            "equipmentType": "OTHER",
+            "availability": "USED",
+            "price": {
+                "usedTmvRetail": 97,
+                "usedPrivateParty": 81,
+                "usedTradeIn": 68,
+                "estimateTmv": false
+            }
+        }
+    ],
+    "equipmentCount": 93
+}

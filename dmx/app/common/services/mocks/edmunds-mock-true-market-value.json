@@ -1,0 +1,80 @@
+{
+    "tmv": {
+        "nationalBasePrice": {
+            "baseMSRP": null,
+            "baseInvoice": null,
+            "deliveryCharges": null,
+            "tmv": null,
+            "usedTmvRetail": 9898,
+            "usedPrivateParty": 8450,
+            "usedTradeIn": 7166,
+            "estimateTmv": null,
+            "tmvRecommendedRating": null
+        },
+        "optionTMVPrices": {},
+        "regionalAdjustment": {
+            "baseMSRP": null,
+            "baseInvoice": null,
+            "deliveryCharges": null,
+            "tmv": null,
+            "usedTmvRetail": -104,
+            "usedPrivateParty": -89,
+            "usedTradeIn": -75,
+            "estimateTmv": null,
+            "tmvRecommendedRating": null
+        },
+        "colorAdjustment": {
+            "baseMSRP": null,
+            "baseInvoice": null,
+            "deliveryCharges": null,
+            "tmv": null,
+            "usedTmvRetail": 0,
+            "usedPrivateParty": 0,
+            "usedTradeIn": 0,
+            "estimateTmv": null,
+            "tmvRecommendedRating": null
+        },
+        "destinationCharge": null,
+        "regionalAdFee": null,
+        "totalWithOptions": {
+            "baseMSRP": null,
+            "baseInvoice": null,
+            "deliveryCharges": null,
+            "tmv": null,
+            "usedTmvRetail": 12359,
+            "usedPrivateParty": 10769,
+            "usedTradeIn": 9410,
+            "estimateTmv": null,
+            "tmvRecommendedRating": null
+        },
+        "incentivesAndRebates": null,
+        "offerPrice": null,
+        "certifiedUsedPrice": 0,
+        "conditionAdjustment": {
+            "baseMSRP": null,
+            "baseInvoice": null,
+            "deliveryCharges": null,
+            "tmv": null,
+            "usedTmvRetail": 948,
+            "usedPrivateParty": 791,
+            "usedTradeIn": 702,
+            "estimateTmv": null,
+            "tmvRecommendedRating": null
+        },
+        "mileageAdjustment": {
+            "baseMSRP": null,
+            "baseInvoice": null,
+            "deliveryCharges": null,
+            "tmv": null,
+            "usedTmvRetail": 1617,
+            "usedPrivateParty": 1617,
+            "usedTradeIn": 1617,
+            "estimateTmv": null,
+            "tmvRecommendedRating": null
+        },
+        "predictedChange": null,
+        "predictedChangeIndicator": null,
+        "gasGuzzlerTax": null,
+        "estimatedTmv": false
+    }
+}

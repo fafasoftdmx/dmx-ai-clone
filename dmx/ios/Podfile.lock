@@ -1,0 +1,17 @@
+PODS:
+  - AppAnalytics (1.2.1)
+  - KIF (3.4.2):
+    - KIF/Core (= 3.4.2)
+  - KIF/Core (3.4.2)
+
+DEPENDENCIES:
+  - AppAnalytics
+  - KIF (~> 3.0)
+
+SPEC CHECKSUMS:
+  AppAnalytics: 9e667f7b21ea6813c2b693821f76e9e2e273c592
+  KIF: b518c9831453abea5afdbbde3908ec47832d6d56
+
+PODFILE CHECKSUM: a14438db6b4321638b64b47fb536ddfaaffaacc4
+
+COCOAPODS: 1.0.1

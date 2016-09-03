@@ -1,0 +1,53 @@
+{
+    "styles": [
+        {
+            "make": {
+                "id": 200000081,
+                "name": "BMW",
+                "niceName": "bmw"
+            },
+            "model": {
+                "id": "BMW_3_Series_Gran_Turismo",
+                "name": "3 Series Gran Turismo",
+                "niceName": "3-series-gran-turismo"
+            },
+            "id": 200461850,
+            "name": "335i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
+            "year": {
+                "id": 200461849,
+                "year": 2014
+            },
+            "submodel": {
+                "body": "Hatchback",
+                "modelName": "3 Series Gran Turismo Hatchback",
+                "niceName": "hatchback"
+            },
+            "trim": "335i xDrive"
+        },
+        {
+            "make": {
+                "id": 200000081,
+                "name": "BMW",
+                "niceName": "bmw"
+            },
+            "model": {
+                "id": "BMW_3_Series_Gran_Turismo",
+                "name": "3 Series Gran Turismo",
+                "niceName": "3-series-gran-turismo"
+            },
+            "id": 200484804,
+            "name": "328i xDrive 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
+            "year": {
+                "id": 200461849,
+                "year": 2014
+            },
+            "submodel": {
+                "body": "Hatchback",
+                "modelName": "3 Series Gran Turismo Hatchback",
+                "niceName": "hatchback"
+            },
+            "trim": "328i xDrive"
+        }
+    ],
+    "stylesCount": 2
+}

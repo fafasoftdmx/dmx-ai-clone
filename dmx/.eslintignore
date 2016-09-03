@@ -1,0 +1,16 @@
+.buckconfig
+.eslintrc
+.flowconfig
+.gitignore
+.npmrc
+.watchmanconfig
+.gradle/
+.idea/
+dmx.iml
+local.properties
+show-native-changes.sh
+android/
+gen/
+ios/
+node_modules/
+app/common/components/svg-assets/appraise-it-logo.js

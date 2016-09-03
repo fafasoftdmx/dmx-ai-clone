@@ -1,0 +1,45 @@
+{
+    "recallHolder": [
+        {
+            "id": 358721,
+            "recallNumber": "13V044000",
+            "componentDescription": "ELECTRICAL SYSTEM",
+            "manufacturerRecallNumber": "",
+            "manufacturedFrom": "2007-02-28",
+            "manufacturedTo": "2011-09-30",
+            "numberOfVehiclesAffected": "504545",
+            "influencedBy": "MFR",
+            "defectConsequence": "If there is a loss of electrical power to the vehicle, the vehicle may unexpectedly stall, increasing the risk of a crash.",
+            "defectCorrectiveAction": "BMW will notify owners, and dealers will replace the positive battery cable connector and secure it with an improved method, free of charge.  The recall is expected to begin in March 2013.  Owners may call BMW at 1-800-525-7417 or email BMW at CustomerRelations@bmwusa.com.",
+            "defectDescription": "BMW is recalling certain model year 2008-2012 1-Series coupes and convertibles manufactured December 2007 through July 2011; and 2007-2011 3-Series coupes and convertibles manufactured March 2007 through July 2011; 2007-2011 3-Series sedans manufactured March 2007 through October 2011; 2007-2011 3-Series sports wagons manufactured March 2007 through June 2011; and 2009-2011 Z4 vehicles manufactured March 2009 through June 2011.  The connector for the positive battery cable connector and the corresponding terminal on the fuse box may degrade over time.  Over time, the high current flow and heat from electrical resistance may lead to a breakage of the connection, and a loss of electrical power to the vehicle.",
+            "modelYear": "/api/vehicle/modelyearrepository/findbyid?id=100524310"
+        },
+        {
+            "id": 358054,
+            "recallNumber": "12E029000",
+            "componentDescription": "ENGINE AND ENGINE COOLING:COOLING SYSTEM:FAN",
+            "manufacturerRecallNumber": "",
+            "numberOfVehiclesAffected": "585",
+            "influencedBy": "MFR",
+            "defectConsequence": "This condition could cause the fan motor to become inoperative, or cause the motor circuit board in the assembly to overheat, potentially leading to a fire in the engine compartment.",
+            "defectCorrectiveAction": "Valeo will notify owners and replace the fans free of charge.  The safety recall is expected to begin during August 2012.  This recall is being conducted by Valeo, not by BMW.  For further information, owners may contact Valeo at 1-888-718-2536.",
+            "defectDescription": "Valeo is recalling certain engine cooling fans, part numbers 696121, 696273, and 696275, used as service replacement parts for model year 2008-2011 BMW 1-Series, 2006-2011 BMW 3-Series, 2000-2009 BMW 5-Series, 2004-2005 BMW 6-Series, and 2006-2007 BMW 7-Series vehicles.  A metal-oxide semiconductor may overheat due to insufficient screwing of the semiconductor on the aluminum heat sink. This primary failure could cause adjacent components on the fan assembly motor circuit board to overheat and short.",
+            "modelYear": "/api/vehicle/modelyearrepository/findbyid?id=100524310"
+        },
+        {
+            "id": 171500,
+            "recallNumber": "09V257000",
+            "componentDescription": "AIR BAGS:FRONTAL",
+            "manufacturerRecallNumber": "",
+            "manufacturedFrom": "2008-05-22",
+            "manufacturedTo": "2008-07-20",
+            "ownerNotificationDate": "2009-09-15",
+            "numberOfVehiclesAffected": "2350",
+            "influencedBy": "MFR",
+            "defectConsequence": "IF THAT HAPPENED, IT WOULD BE POSSIBLE FOR THE SIDE AIR BAG AND/OR THE SAFETY BELT TENSIONER NOT TO DEPLOY AND WILL NOT BE ABLE TO PROPERLY PROTECT AN OCCUPANT, INCREASING THE RISK OF INJURIES.",
+            "defectCorrectiveAction": "BMW WILL NOTIFY OWNERS AND REPAIR THE VEHICLES FREE OF CHARGE.  THE SAFETY RECALL BEGAN ON SEPTEMBER 16, 2009.  OWNERS MAY CONTACT BMW CUSTOMER RELATIONS AND SERVICES TOLL-FREE AT 1-800-525-7417.",
+            "defectDescription": "BMW IS RECALLING 2,350 MY 2008 1-SERIES AND 3- SERIES PASSENGER CARS.  INCORRECT CRIMP CONNECTORS MAY HAVE BEEN USED ON THE SIDE AIR BAG AND BELT TENSIONER WIRING.  AS A RESULT SUFFICIENT CONTACT BETWEEN THE CRIMP CONNECTORS AND THE CORRESPONDING PLUG MAY NOT OCCUR WHICH COULD LEAD TO AN INCREASE IN THE ELECTRICAL RESISTANCE OF THAT CONNECTION.",
+            "modelYear": "/api/vehicle/modelyearrepository/findbyid?id=100524310"
+        }
+    ]
+}

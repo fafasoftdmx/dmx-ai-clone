@@ -1,0 +1,31 @@
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true
+    }
+  },
+  "extends": "airbnb",
+  "globals": {
+    "__DEV__": true
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".ios.js", ".android.js"]
+      }
+    }
+  },
+  "rules": {
+    "no-underscore-dangle": ["error",{ "allow": ["_id"] }],
+    "max-len": [
+      "error",
+      {
+        "code": 100,
+        "ignorePattern": "^\\s*(const|let|var)\\s+\\w+\\s+\\=\\s+\\/.*\\/(|i|g|m|ig|im|gm|igm);?$",
+        "ignoreUrls": true,
+      }
+    ],
+    "no-console": "off"
+  }
+}

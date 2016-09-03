@@ -1,0 +1,1113 @@
+{
+    "options": [
+        {
+            "id": "200112912",
+            "name": "Comfort Access",
+            "description": "Includes Comfort Access remote.  Comfort Access allows the user to unlock/lock and enter the car and start/stop the engine without using the key or keyfob, as long as the user has the keyfob in his or her possession.",
+            "equipmentType": "OPTION",
+            "availability": "All except Convertibles",
+            "price": {
+                "baseMSRP": 500,
+                "baseInvoice": 455,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Comfort Access",
+            "manufactureOptionCode": "322",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Keyless Ignition",
+                    "value": "keyless ignition"
+                }
+            ],
+            "equipment": [
+                {
+                    "id": "200112913",
+                    "name": "Engine",
+                    "equipmentType": "ENGINE",
+                    "availability": "OPTIONAL",
+                    "code": "nullNAG",
+                    "compressorType": "NA"
+                }
+            ]
+        },
+        {
+            "id": "200112911",
+            "name": "Paddle Shifters",
+            "description": "Includes steering wheel-mounted transmission gear shift paddles.",
+            "equipmentType": "OPTION",
+            "availability": "All",
+            "price": {
+                "baseMSRP": 100,
+                "baseInvoice": 90,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Paddle Shifters",
+            "manufactureOptionCode": "2XA",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Transmission Controls On Steering Wheel",
+                    "value": "gear shift controls"
+                }
+            ],
+            "equipment": []
+        },
+        {
+            "id": "200112916",
+            "name": "Power Rear Sunshade",
+            "equipmentType": "OPTION",
+            "availability": "All Coupes",
+            "price": {
+                "baseMSRP": 350,
+                "baseInvoice": 320,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Power Rear Sunshade",
+            "manufactureOptionCode": "415",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Rear Window Sunshade",
+                    "value": "power"
+                }
+            ],
+            "equipment": []
+        },
+        {
+            "id": "200112929",
+            "name": "Logic7 Sound System W/Surround Sound",
+            "description": "Includes Logic 7 anti-theft audio system with Radio Data System (RDS), Digital Sound Processing (DSP), Auto-Store, 3-channel FM diversity antenna, CD player with MP3 capability, Surround Sound simulation and 13 upgraded speakers including 2 subwoofers.",
+            "equipmentType": "OPTION",
+            "availability": "328i Cpe/328xi Cpe/328i Sdn/328xi Sdn/328i Wgn/328xi Wgn",
+            "price": {
+                "baseMSRP": 1200,
+                "baseInvoice": 1090,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Logic7 Sound System w/Surround Sound",
+            "manufactureOptionCode": "677",
+            "category": "Other",
+            "attributes": [],
+            "equipment": [
+                {
+                    "id": "200112930",
+                    "name": "Audio System",
+                    "equipmentType": "AUDIO_SYSTEM",
+                    "availability": "OPTIONAL",
+                    "attributes": [
+                        {
+                            "name": "Total Number Of Speakers",
+                            "value": "13"
+                        },
+                        {
+                            "name": "Cd Mp3 Playback",
+                            "value": "CD MP3 Playback"
+                        },
+                        {
+                            "name": "Audio Security System",
+                            "value": "audio security system"
+                        },
+                        {
+                            "name": "Radio Data System",
+                            "value": "radio data system"
+                        },
+                        {
+                            "name": "Surround Audio",
+                            "value": "surround audio"
+                        },
+                        {
+                            "name": "Subwoofer",
+                            "value": "2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "200112976",
+            "name": "Sport Package",
+            "description": "Includes 17\" x 8\" Star Spoke (style 185) alloy wheels with 225/45HR17 run-flat all season tires, 8-way power front sport seats with power adjustable backrest width and 2-way manual headrests and thigh support.",
+            "equipmentType": "OPTION",
+            "availability": "328xi Cpe",
+            "price": {
+                "baseMSRP": 500,
+                "baseInvoice": 455,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Sport Package",
+            "manufactureOptionCode": "ZSP",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Height Adjustable Passenger Seat",
+                    "value": "height adjustable"
+                },
+                {
+                    "name": "Number Of Passenger Seat Manual Adjustments",
+                    "value": "2"
+                },
+                {
+                    "name": "Number Of Passenger Seat Power Adjustments",
+                    "value": "8"
+                },
+                {
+                    "name": "1st Row Seat Type",
+                    "value": "sport"
+                },
+                {
+                    "name": "Adjustable Seat Headrest",
+                    "value": "height adjustable headrests"
+                },
+                {
+                    "name": "Number Of 1st Row Headrests",
+                    "value": "2"
+                },
+                {
+                    "name": "Number Of Driver Seat Manual Adjustments",
+                    "value": "2"
+                },
+                {
+                    "name": "Height Adjustable Driver Seat",
+                    "value": "height adjustable"
+                },
+                {
+                    "name": "Number Of Driver Seat Power Adjustments",
+                    "value": "8"
+                }
+            ],
+            "equipment": [
+                {
+                    "id": "200112977",
+                    "name": "Tires",
+                    "equipmentType": "TIRES",
+                    "availability": "OPTIONAL",
+                    "attributes": [
+                        {
+                            "name": "Rear Tire Width",
+                            "value": "225"
+                        },
+                        {
+                            "name": "Tire Type",
+                            "value": "all season"
+                        },
+                        {
+                            "name": "Run Flat Tires",
+                            "value": "run flat"
+                        },
+                        {
+                            "name": "Rear Tire Profile",
+                            "value": "45"
+                        },
+                        {
+                            "name": "Rear Tire Diameter",
+                            "value": "17"
+                        },
+                        {
+                            "name": "Rear Tire Speed Rating",
+                            "value": "H"
+                        }
+                    ]
+                },
+                {
+                    "id": "200112978",
+                    "name": "Wheels",
+                    "equipmentType": "WHEELS",
+                    "availability": "OPTIONAL",
+                    "attributes": [
+                        {
+                            "name": "Rim Type",
+                            "value": "alloy"
+                        },
+                        {
+                            "name": "Rear Wheel Diameter",
+                            "value": "17"
+                        },
+                        {
+                            "name": "Rear Wheel Width",
+                            "value": "8.0"
+                        },
+                        {
+                            "name": "Wheel Upgrade",
+                            "value": "upgraded"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "200112950",
+            "name": "Metallic Paint",
+            "equipmentType": "OPTION",
+            "availability": "All",
+            "price": {
+                "baseMSRP": 550,
+                "baseInvoice": 500,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Metallic Paint",
+            "manufactureOptionCode": "MET",
+            "category": "Other",
+            "attributes": [],
+            "equipment": []
+        },
+        {
+            "id": "200112952",
+            "name": "Cold Weather Package",
+            "description": "Includes 3-stage heated front seats and a ski bag.",
+            "equipmentType": "OPTION",
+            "availability": "328xi Cpe/335xi Cpe/328xi Wgn",
+            "price": {
+                "baseMSRP": 600,
+                "baseInvoice": 545,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Cold Weather Package",
+            "manufactureOptionCode": "ZCW",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Ski Bag",
+                    "value": "ski bag"
+                },
+                {
+                    "name": "2nd Row Center Armrest",
+                    "value": "folding with pass-thru"
+                },
+                {
+                    "name": "Heated Passenger Seat",
+                    "value": "multi-level heating"
+                },
+                {
+                    "name": "Heated Driver Seat",
+                    "value": "multi-level heating"
+                }
+            ],
+            "equipment": []
+        },
+        {
+            "id": "200112990",
+            "name": "Premium Package",
+            "description": "Includes 8-way power front seats with manual headrests and 2-position memory for driver's seat and exterior mirrors, 4-way power adjustable front seat lumbar support, Dakota leather upholstery, auto-dimming inside rearview mirror with digital compass, power folding auto-dimming exterior mirrors with tilt-down for passenger mirror, universal remote transmitter and BMW Assist with Bluetooth technology.  Bluetooth allows a user of a Bluetooth-enabled mobile phone to make calls hands-free and have his/her phone's phonebook automatically downloaded.  Phone numbers can then be accessed and calls can be initiated with controls on the steering wheel.  Tilt-down passenger mirror moves that mirror downward when reverse gear is selected.  This is intended to enhance the view of the lower right side.  (A 4 year subscription to BMW Assist Safety Services is also included in this option.)",
+            "equipmentType": "OPTION",
+            "availability": "328i Cpe/328xi Cpe/328i Sdn/328xi Sdn/328i Wgn/328xi Wgn",
+            "price": {
+                "baseMSRP": 3350,
+                "baseInvoice": 3050,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Premium Package",
+            "manufactureOptionCode": "ZPP",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Compass",
+                    "value": "compass"
+                },
+                {
+                    "name": "Number Of Passenger Seat Power Adjustments",
+                    "value": "8"
+                },
+                {
+                    "name": "Passenger Seat Adjustable Lumbar",
+                    "value": "power adjustable lumbar support"
+                },
+                {
+                    "name": "1st Row Seat Type",
+                    "value": "bucket"
+                },
+                {
+                    "name": "Adjustable Seat Headrest",
+                    "value": "height adjustable headrests"
+                },
+                {
+                    "name": "1st Row Upholstery",
+                    "value": "premium leather"
+                },
+                {
+                    "name": "Number Of 1st Row Headrests",
+                    "value": "2"
+                },
+                {
+                    "name": "Satellite Communications",
+                    "value": "BMW Assist"
+                },
+                {
+                    "name": "Bluetooth",
+                    "value": "Bluetooth"
+                },
+                {
+                    "name": "Post Collision Safety System",
+                    "value": "post-collision safety system"
+                },
+                {
+                    "name": "Auto Dimming Rearview Mirror",
+                    "value": "electrochromatic"
+                },
+                {
+                    "name": "Side Mirror Memory",
+                    "value": "includes exterior mirrors"
+                },
+                {
+                    "name": "Auto Dimming Side Mirrors",
+                    "value": "electrochromatic"
+                },
+                {
+                    "name": "Power Retractable Side Mirrors",
+                    "value": "power retractable mirrors"
+                },
+                {
+                    "name": "Reverse Tilt Side Mirrors",
+                    "value": "passenger mirror"
+                },
+                {
+                    "name": "Driver Seat Adjustable Lumbar",
+                    "value": "power adjustable lumbar support"
+                },
+                {
+                    "name": "Number Of Driver Seat Power Adjustments",
+                    "value": "8"
+                },
+                {
+                    "name": "Number Of Memorized Driver Seat Settings",
+                    "value": "2"
+                },
+                {
+                    "name": "Universal Remote Transmitter",
+                    "value": "universal remote transmitter"
+                }
+            ],
+            "equipment": []
+        },
+        {
+            "id": "200112973",
+            "name": "Sport Package",
+            "description": "Includes 17\" x 8\" Star Spoke (style 185) alloy wheels with 225/45HR17 run-flat all season tires, 8-way power front sport seats with power adjustable backrest width, 4-way power adjustable lumbar and 2-way manual headrests and thigh support.",
+            "equipmentType": "OPTION",
+            "availability": "328xi Cpe",
+            "price": {
+                "baseMSRP": 500,
+                "baseInvoice": 455,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Sport Package",
+            "manufactureOptionCode": "ZSP",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Height Adjustable Passenger Seat",
+                    "value": "height adjustable"
+                },
+                {
+                    "name": "Number Of Passenger Seat Manual Adjustments",
+                    "value": "2"
+                },
+                {
+                    "name": "Number Of Passenger Seat Power Adjustments",
+                    "value": "8"
+                },
+                {
+                    "name": "Passenger Seat Adjustable Lumbar",
+                    "value": "power adjustable lumbar support"
+                },
+                {
+                    "name": "1st Row Seat Type",
+                    "value": "sport"
+                },
+                {
+                    "name": "Adjustable Seat Headrest",
+                    "value": "height adjustable headrests"
+                },
+                {
+                    "name": "Number Of 1st Row Headrests",
+                    "value": "2"
+                },
+                {
+                    "name": "Number Of Driver Seat Manual Adjustments",
+                    "value": "2"
+                },
+                {
+                    "name": "Height Adjustable Driver Seat",
+                    "value": "height adjustable"
+                },
+                {
+                    "name": "Driver Seat Adjustable Lumbar",
+                    "value": "power adjustable lumbar support"
+                },
+                {
+                    "name": "Number Of Driver Seat Power Adjustments",
+                    "value": "8"
+                }
+            ],
+            "equipment": [
+                {
+                    "id": "200112974",
+                    "name": "Tires",
+                    "equipmentType": "TIRES",
+                    "availability": "OPTIONAL",
+                    "attributes": [
+                        {
+                            "name": "Rear Tire Width",
+                            "value": "225"
+                        },
+                        {
+                            "name": "Tire Type",
+                            "value": "all season"
+                        },
+                        {
+                            "name": "Run Flat Tires",
+                            "value": "run flat"
+                        },
+                        {
+                            "name": "Rear Tire Diameter",
+                            "value": "17"
+                        },
+                        {
+                            "name": "Rear Tire Profile",
+                            "value": "45"
+                        },
+                        {
+                            "name": "Rear Tire Speed Rating",
+                            "value": "H"
+                        }
+                    ]
+                },
+                {
+                    "id": "200112975",
+                    "name": "Wheels",
+                    "equipmentType": "WHEELS",
+                    "availability": "OPTIONAL",
+                    "attributes": [
+                        {
+                            "name": "Rim Type",
+                            "value": "alloy"
+                        },
+                        {
+                            "name": "Rear Wheel Diameter",
+                            "value": "17"
+                        },
+                        {
+                            "name": "Rear Wheel Width",
+                            "value": "8.0"
+                        },
+                        {
+                            "name": "Wheel Upgrade",
+                            "value": "upgraded"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "200112908",
+            "name": "Sport Package Wheel/Tire Upgrade",
+            "description": "Includes 18\" x 8\" front and 18\" x 8.5\" rear Cross Spoke (style 197) alloy wheels with 225/40WR18 front and 255/35WR18 rear run-flat performance tires.",
+            "equipmentType": "OPTION",
+            "availability": "328xi Cpe",
+            "price": {
+                "baseMSRP": 600,
+                "baseInvoice": 545,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Sport Package Wheel/Tire Upgrade",
+            "manufactureOptionCode": "2DA",
+            "category": "Other",
+            "attributes": [],
+            "equipment": [
+                {
+                    "id": "200112910",
+                    "name": "Wheels",
+                    "equipmentType": "WHEELS",
+                    "availability": "OPTIONAL",
+                    "attributes": [
+                        {
+                            "name": "Rim Type",
+                            "value": "alloy"
+                        },
+                        {
+                            "name": "Front Wheel Diameter",
+                            "value": "18"
+                        },
+                        {
+                            "name": "Rear Wheel Diameter",
+                            "value": "18"
+                        },
+                        {
+                            "name": "Rear Wheel Width",
+                            "value": "8.5"
+                        },
+                        {
+                            "name": "Front Wheel Width",
+                            "value": "8.0"
+                        }
+                    ]
+                },
+                {
+                    "id": "200112909",
+                    "name": "Tires",
+                    "equipmentType": "TIRES",
+                    "availability": "OPTIONAL",
+                    "attributes": [
+                        {
+                            "name": "Front Tires Diameter",
+                            "value": "18"
+                        },
+                        {
+                            "name": "Rear Tire Speed Rating Grouping",
+                            "value": "Z"
+                        },
+                        {
+                            "name": "Front Tire Profile",
+                            "value": "40"
+                        },
+                        {
+                            "name": "Front Tire Speed Rating",
+                            "value": "W"
+                        },
+                        {
+                            "name": "Rear Tire Width",
+                            "value": "255"
+                        },
+                        {
+                            "name": "Run Flat Tires",
+                            "value": "run flat"
+                        },
+                        {
+                            "name": "Tire Type",
+                            "value": "performance"
+                        },
+                        {
+                            "name": "Front Tire Width",
+                            "value": "225"
+                        },
+                        {
+                            "name": "Rear Tire Profile",
+                            "value": "35"
+                        },
+                        {
+                            "name": "Rear Tire Diameter",
+                            "value": "18"
+                        },
+                        {
+                            "name": "Rear Tire Speed Rating",
+                            "value": "W"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "200112933",
+            "name": "Dakota Leather",
+            "description": "Includes Dakota leather upholstery on the seating surfaces and doors.",
+            "equipmentType": "OPTION",
+            "availability": "All except 335i Cnv",
+            "price": {
+                "baseMSRP": 1450,
+                "baseInvoice": 1320,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Dakota Leather",
+            "manufactureOptionCode": "LC",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "1st Row Upholstery",
+                    "value": "premium leather"
+                },
+                {
+                    "name": "Door Trim",
+                    "value": "leather"
+                }
+            ],
+            "equipment": []
+        },
+        {
+            "id": "200112970",
+            "name": "Sport Package",
+            "description": "Includes 17\" x 8\" Star Spoke (style 185) alloy wheels with 225/45HR17 run-flat all season tires, 10-way manual front sport seats with manually adjustable backrest width, 2-way manual headrests and thigh support.",
+            "equipmentType": "OPTION",
+            "availability": "328xi Cpe",
+            "price": {
+                "baseMSRP": 500,
+                "baseInvoice": 455,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Sport Package",
+            "manufactureOptionCode": "ZSP",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Height Adjustable Passenger Seat",
+                    "value": "height adjustable"
+                },
+                {
+                    "name": "Number Of Passenger Seat Manual Adjustments",
+                    "value": "10"
+                },
+                {
+                    "name": "1st Row Seat Type",
+                    "value": "sport"
+                },
+                {
+                    "name": "Adjustable Seat Headrest",
+                    "value": "height adjustable headrests"
+                },
+                {
+                    "name": "Number Of 1st Row Headrests",
+                    "value": "2"
+                },
+                {
+                    "name": "Number Of Driver Seat Manual Adjustments",
+                    "value": "10"
+                },
+                {
+                    "name": "Height Adjustable Driver Seat",
+                    "value": "height adjustable"
+                }
+            ],
+            "equipment": [
+                {
+                    "id": "200112972",
+                    "name": "Wheels",
+                    "equipmentType": "WHEELS",
+                    "availability": "OPTIONAL",
+                    "attributes": [
+                        {
+                            "name": "Rim Type",
+                            "value": "alloy"
+                        },
+                        {
+                            "name": "Rear Wheel Diameter",
+                            "value": "17"
+                        },
+                        {
+                            "name": "Rear Wheel Width",
+                            "value": "8.0"
+                        },
+                        {
+                            "name": "Wheel Upgrade",
+                            "value": "upgraded"
+                        }
+                    ]
+                },
+                {
+                    "id": "200112971",
+                    "name": "Tires",
+                    "equipmentType": "TIRES",
+                    "availability": "OPTIONAL",
+                    "attributes": [
+                        {
+                            "name": "Rear Tire Width",
+                            "value": "225"
+                        },
+                        {
+                            "name": "Tire Type",
+                            "value": "all season"
+                        },
+                        {
+                            "name": "Run Flat Tires",
+                            "value": "run flat"
+                        },
+                        {
+                            "name": "Rear Tire Diameter",
+                            "value": "17"
+                        },
+                        {
+                            "name": "Rear Tire Profile",
+                            "value": "45"
+                        },
+                        {
+                            "name": "Rear Tire Speed Rating",
+                            "value": "H"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "200113012",
+            "name": "HD Radio",
+            "description": "Includes digital radio which receives AM/FM stations via digital signal for enhanced audio quality.",
+            "equipmentType": "OPTION",
+            "availability": "All",
+            "price": {
+                "baseMSRP": 350,
+                "baseInvoice": 315,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "HD Radio",
+            "manufactureOptionCode": "653",
+            "category": "Other",
+            "attributes": [],
+            "equipment": [
+                {
+                    "id": "200113013",
+                    "name": "Audio System",
+                    "equipmentType": "AUDIO_SYSTEM",
+                    "availability": "OPTIONAL",
+                    "attributes": [
+                        {
+                            "name": "Radio",
+                            "value": "AM/FM HD Radio"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "200112919",
+            "name": "Power Front Seats W/Driver Seat Memory",
+            "description": "Includes 8-way power front seats with 2-position memory for the driver's seat and exterior mirrors and auto tilt-down of right-side exterior mirror.  Auto tilt-down adjusts the right-side exterior mirror downward when reverse gear is selected in order to provide a view of the lower, rear right side while reversing.",
+            "equipmentType": "OPTION",
+            "availability": "328i Cpe/328xi Cpe/328i Sdn/328xi Sdn/328i Wgn/328xi Wgn",
+            "price": {
+                "baseMSRP": 995,
+                "baseInvoice": 905,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Power Front Seats w/Driver Seat Memory",
+            "manufactureOptionCode": "459",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Number Of Passenger Seat Power Adjustments",
+                    "value": "8"
+                },
+                {
+                    "name": "1st Row Seat Type",
+                    "value": "bucket"
+                },
+                {
+                    "name": "Side Mirror Memory",
+                    "value": "includes exterior mirrors"
+                },
+                {
+                    "name": "Reverse Tilt Side Mirrors",
+                    "value": "passenger mirror"
+                },
+                {
+                    "name": "Number Of Driver Seat Power Adjustments",
+                    "value": "8"
+                },
+                {
+                    "name": "Number Of Memorized Driver Seat Settings",
+                    "value": "2"
+                }
+            ],
+            "equipment": []
+        },
+        {
+            "id": "200112920",
+            "name": "Heated Front Seats",
+            "description": "Includes heated front seats with 3 levels of heat intensity.",
+            "equipmentType": "OPTION",
+            "availability": "All",
+            "price": {
+                "baseMSRP": 500,
+                "baseInvoice": 455,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Heated Front Seats",
+            "manufactureOptionCode": "494",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Heated Passenger Seat",
+                    "value": "multi-level heating"
+                },
+                {
+                    "name": "Heated Driver Seat",
+                    "value": "multi-level heating"
+                }
+            ],
+            "equipment": []
+        },
+        {
+            "id": "200112942",
+            "name": "6-Speed STEPTRONIC Automatic Transmission",
+            "description": "Includes 6-speed automatic transmission with Adaptive Transmission Control and STEPTRONIC features.  STEPTRONIC allows the driver to choose between automanual or full automatic shift modes.",
+            "equipmentType": "OPTION",
+            "availability": "All",
+            "price": {
+                "baseMSRP": 1325,
+                "baseInvoice": 1260,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "6-Speed STEPTRONIC Automatic Transmission",
+            "manufactureOptionCode": "205",
+            "category": "Other",
+            "attributes": [],
+            "equipment": [
+                {
+                    "id": "200112943",
+                    "name": "6A",
+                    "equipmentType": "TRANSMISSION",
+                    "availability": "OPTIONAL",
+                    "automaticType": "Shiftable automatic",
+                    "transmissionType": "AUTOMATIC",
+                    "numberOfSpeeds": "6"
+                }
+            ]
+        },
+        {
+            "id": "200112946",
+            "name": "SIRIUS Satellite Radio",
+            "description": "(A one year subscription to Sirius satellite radio service is included in this option.)",
+            "equipmentType": "OPTION",
+            "availability": "All",
+            "price": {
+                "baseMSRP": 595,
+                "baseInvoice": 540,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "SIRIUS Satellite Radio",
+            "manufactureOptionCode": "655",
+            "category": "Other",
+            "attributes": [],
+            "equipment": [
+                {
+                    "id": "200112947",
+                    "name": "Audio System",
+                    "equipmentType": "AUDIO_SYSTEM",
+                    "availability": "OPTIONAL",
+                    "attributes": [
+                        {
+                            "name": "Satellite Radio",
+                            "value": "satellite radio"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "200112928",
+            "name": "Navigation System",
+            "description": "Includes a DVD-based navigation system with Real Time Traffic Information, Voice Command voice-activated functionality and a trip computer.",
+            "equipmentType": "OPTION",
+            "availability": "All",
+            "price": {
+                "baseMSRP": 2100,
+                "baseInvoice": 1910,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Navigation System",
+            "manufactureOptionCode": "609",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Navigation System",
+                    "value": "navigation with voice activation"
+                },
+                {
+                    "name": "Real Time Traffic",
+                    "value": "real time traffic"
+                },
+                {
+                    "name": "Trip Computer",
+                    "value": "trip computer"
+                }
+            ],
+            "equipment": []
+        },
+        {
+            "id": "200112945",
+            "name": "BMW Assist W/Bluetooth Wireless Technology",
+            "description": "Includes BMW Assist and Bluetooth wireless technology.  Bluetooth allows a user of a Bluetooth-enabled mobile phone to make calls hands-free and have his/her phone's phonebook automatically downloaded.  Phone numbers can then be accessed and calls can be initiated with controls on the steering wheel.  (A 4 year subscription to BMW Assist Safety Services is also included in this option.)",
+            "equipmentType": "OPTION",
+            "availability": "All",
+            "price": {
+                "baseMSRP": 750,
+                "baseInvoice": 685,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "BMW Assist w/Bluetooth Wireless Technology",
+            "manufactureOptionCode": "639",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Satellite Communications",
+                    "value": "BMW Assist"
+                },
+                {
+                    "name": "Bluetooth",
+                    "value": "Bluetooth"
+                },
+                {
+                    "name": "Post Collision Safety System",
+                    "value": "post-collision safety system"
+                }
+            ],
+            "equipment": []
+        },
+        {
+            "id": "200112927",
+            "name": "Active Cruise Control",
+            "description": "When engaged, Active Cruise Control matches the speed of the 3 Series to that of a slower moving vehicle directly ahead, maintaining a driver selected, pre-set distance between the two vehicles.",
+            "equipmentType": "OPTION",
+            "availability": "All",
+            "price": {
+                "baseMSRP": 2400,
+                "baseInvoice": 2135,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Active Cruise Control",
+            "manufactureOptionCode": "541",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Cruise Control",
+                    "value": "adaptive cruise control"
+                }
+            ],
+            "equipment": []
+        },
+        {
+            "id": "200112925",
+            "name": "Park Distance Control",
+            "description": "Includes rear parking sensors that trigger an audible warning beep to alert the driver of obstacles at the rear of the vehicle.",
+            "equipmentType": "OPTION",
+            "availability": "All",
+            "price": {
+                "baseMSRP": 350,
+                "baseInvoice": 320,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Park Distance Control",
+            "manufactureOptionCode": "507",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Parking Sensors",
+                    "value": "rear parking sensors"
+                }
+            ],
+            "equipment": []
+        },
+        {
+            "id": "200112923",
+            "name": "Gray Poplar Wood Trim",
+            "description": "Includes Gray Poplar wood interior trim on the dashboard, doors and center console.",
+            "equipmentType": "OPTION",
+            "availability": "328i Cpe/328xi Cpe/335i Cpe/335xi Cpe/328i Cnv/335i Cnv",
+            "price": {
+                "baseMSRP": 0,
+                "baseInvoice": 0,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Gray Poplar Wood Trim",
+            "manufactureOptionCode": "4AS",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Door Trim",
+                    "value": "wood"
+                },
+                {
+                    "name": "Dash Trim",
+                    "value": "wood"
+                },
+                {
+                    "name": "Center Console Trim",
+                    "value": "wood"
+                }
+            ],
+            "equipment": []
+        },
+        {
+            "id": "200112948",
+            "name": "IPod And USB Adapter",
+            "description": "(When this option is selected, the iPod application of an iPhone can be used.)",
+            "equipmentType": "OPTION",
+            "availability": "All",
+            "price": {
+                "baseMSRP": 400,
+                "baseInvoice": 365,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "iPod and USB Adapter",
+            "manufactureOptionCode": "6FL",
+            "category": "Other",
+            "attributes": [],
+            "equipment": [
+                {
+                    "id": "200112949",
+                    "name": "Audio System",
+                    "equipmentType": "AUDIO_SYSTEM",
+                    "availability": "OPTIONAL",
+                    "attributes": [
+                        {
+                            "name": "Digital Audio Input",
+                            "value": "USB with external media control"
+                        },
+                        {
+                            "name": "Usb Connection",
+                            "value": "USB connection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "200112922",
+            "name": "Brushed Aluminum Trim",
+            "description": "Includes brushed aluminum interior trim on the dashboard, doors and center console.",
+            "equipmentType": "OPTION",
+            "availability": "All",
+            "price": {
+                "baseMSRP": 0,
+                "baseInvoice": 0,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Brushed Aluminum Trim",
+            "manufactureOptionCode": "4AD",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Door Trim",
+                    "value": "alloy"
+                },
+                {
+                    "name": "Dash Trim",
+                    "value": "alloy"
+                },
+                {
+                    "name": "Center Console Trim",
+                    "value": "alloy"
+                }
+            ],
+            "equipment": []
+        },
+        {
+            "id": "200112921",
+            "name": "Light Poplar Natural Wood Trim",
+            "description": "Includes Light Poplar Natural wood interior trim on the dashboard, doors and center console.",
+            "equipmentType": "OPTION",
+            "availability": "All",
+            "price": {
+                "baseMSRP": 0,
+                "baseInvoice": 0,
+                "estimateTmv": false
+            },
+            "manufactureOptionName": "Light Poplar Natural Wood Trim",
+            "manufactureOptionCode": "4AC",
+            "category": "Other",
+            "attributes": [
+                {
+                    "name": "Door Trim",
+                    "value": "wood"
+                },
+                {
+                    "name": "Dash Trim",
+                    "value": "wood"
+                },
+                {
+                    "name": "Center Console Trim",
+                    "value": "wood"
+                }
+            ],
+            "equipment": []
+        }
+    ],
+    "optionsCount": 25
+}

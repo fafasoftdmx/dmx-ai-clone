@@ -1,0 +1,61 @@
+{
+    "vehicleBuildInfo": {
+        "vin": "WBAWV53568P078170",
+        "options": [
+            "29292929292",
+            "22899999999",
+            "00998776678"
+        ],
+        "exteriorColorId": 2929292929292,
+        "interiorColorId": 2929292929877,
+        "yearId": 2380009987,
+        "styleId": 2809092200
+    },
+    "vehicleStateInfo": {
+        "mileage": 14378,
+        "ratings": {
+            "paint": 3,
+            "tires": 2,
+            "interior": 1,
+            "body": 4
+        },
+        "media": {
+            "audio": [
+                {
+                    "url": "https://url/of/audio",
+                    "durationInSeconds": 138.7
+                }
+            ],
+            "photos": [
+                {
+                    "url": "https://url/of/image",
+                    "type": "angle1"
+                }
+            ],
+            "videos": [
+                {
+                    "url": "https://url/of/video",
+                    "durationInSeconds": 76.2
+                }
+            ]
+        }
+    },
+    "dealer": {
+        "id": "130ec803b2ce49e4a541068d495ab130",
+        "dealerId": "NY12345",
+        "name": "Pacific Dodge"
+    },
+    "salesperson": {
+        "userId": 123456789,
+        "name": "John Smith",
+        "role": "Used Car Salesperson",
+        "mobile": "2124325010",
+        "email": "jsmith@pacificdodge.com"
+    },
+    "customer": {
+        "id": "120ec803b2ce49e4a541068d495ab120",
+        "name": "Jimmy Smith",
+        "email": "js@gmail.com",
+        "mobile": "2121231234"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": {
+        "camera": {
+            "headerText": "Appraise-It will need access to your camera in order to assess the vehicle.",
+            "bodyText": "Your device will prompt you for access to your camera.",
+            "ctaText": "Are you OK with this?",
+            "primaryBtnText": "YES",
+            "secondaryBtnText": "NOT NOW",
+            "icon": "camera"
+        },
+        "microphone": {
+            "headerText": "Appraise-It will need access to your microphone in order to record a summary of this vehicle.",
+            "bodyText": "Your device will prompt you for access to your camera.",
+            "ctaText": "Are you OK with this?",
+            "primaryBtnText": "YES",
+            "secondaryBtnText": "NOT NOW",
+            "icon": "microphone"
+        },
+        "location": {
+            "headerText": "Appraise-It will need access to your location in order to provide an accurate vehicle valuation.",
+            "bodyText": "Your device will prompt you for access to your location.",
+            "ctaText": "Are you OK with this?",
+            "primaryBtnText": "YES",
+            "secondaryBtnText": "NOT NOW",
+            "icon": "location"
+        }
+    }
+}
